@@ -1,0 +1,111 @@
+/* Print + screen stylesheet for the resume.
+   Drives PDF pagination (via WeasyPrint) and the GitHub Pages HTML view.
+   Tuned for US Letter. Change @page size to A4 if needed. */
+
+@page {
+  size: Letter;
+  margin: 0.55in 0.7in 0.6in 0.7in;
+  /* Page number, bottom-right, from page 2 on. */
+  @bottom-right {
+    content: counter(page);
+    font-family: Georgia, "Liberation Serif", "Times New Roman", serif;
+    font-size: 8pt;
+    color: #999;
+  }
+}
+@page :first {
+  @bottom-right { content: none; }
+}
+
+:root {
+  --ink: #222;
+  --muted: #555;
+  --rule: #cfcfcf;
+  --link: #1a5276;
+}
+
+html { font-size: 10.5pt; }
+
+/* Pandoc renders the document `title` metadata as a visible block above the
+   content. We only want it for the browser tab and PDF metadata, not on the
+   page (the "# Geoff Scott" H1 is the real headline). */
+#title-block-header { display: none; }
+
+body {
+  font-family: Georgia, "Liberation Serif", "Times New Roman", serif;
+  color: var(--ink);
+  line-height: 1.34;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Screen (GitHub Pages) gets a centered, page-like column. Print ignores this. */
+@media screen {
+  body {
+    max-width: 8.5in;
+    margin: 2rem auto;
+    padding: 0 1in;
+    background: #fff;
+  }
+}
+
+/* --- Header ------------------------------------------------------------ */
+h1 {
+  font-size: 23pt;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  margin: 0 0 0.05em;
+}
+/* Tagline (first bold paragraph) and contact line sit tight under the name. */
+h1 + p { margin-top: 0.15em; }
+
+/* --- Section headings -------------------------------------------------- */
+h2 {
+  font-size: 11pt;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: var(--ink);
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 0.15em;
+  margin: 1.15em 0 0.5em;
+  break-after: avoid;
+}
+
+/* --- Job / entry headings ---------------------------------------------- */
+h3 {
+  font-size: 11.5pt;
+  font-weight: 700;
+  margin: 0.85em 0 0.1em;
+  break-after: avoid;
+}
+/* Italic date line directly under an h3. */
+h3 + p em { color: var(--muted); }
+h3 + p { margin: 0 0 0.35em; }
+
+p { margin: 0 0 0.5em; orphans: 3; widows: 3; }
+
+strong { font-weight: 700; }
+em { font-style: italic; }
+
+a { color: var(--link); text-decoration: none; }
+@media screen { a:hover { text-decoration: underline; } }
+
+/* --- Lists ------------------------------------------------------------- */
+ul { margin: 0.2em 0 0.6em; padding-left: 1.1em; }
+li { margin: 0 0 0.18em; padding-left: 0.15em; break-inside: avoid; }
+li::marker { color: var(--muted); }
+
+/* --- Horizontal rules become quiet section separators ------------------ */
+hr {
+  border: none;
+  border-top: 1px solid var(--rule);
+  margin: 0.9em 0;
+}
+/* The rule right after the header/summary block is decorative; hide the
+   doubled look by keeping them subtle. */
+
+/* --- Pagination safety ------------------------------------------------- */
+/* Keep an entry's heading with at least its first lines. */
+h2, h3 { page-break-after: avoid; }
+/* Avoid awkwardly splitting short bullet lists. */
