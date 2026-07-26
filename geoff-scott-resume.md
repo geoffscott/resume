@@ -8,11 +8,11 @@ Hudson Valley, NY · [linkedin.com/in/geoffscott](https://www.linkedin.com/in/ge
 
 ---
 
-I work with CEOs, boards, and sponsors on the decisions that make or break a transition: how suitable is the technology for achieving the target outcomes, what has to change to do so, what the team needs to look like, how much it will cost, and how long it will take. When warranted, I take the CTO seat myself. I've done this at PE-backed, VC-backed, private and public companies, across healthcare, fintech, wellness, edtech, martech, media, and adtech.
+CEOs, boards, and sponsors bring me in on the technology decisions that make or break a transition: whether the technology can deliver the outcome they're after, what has to change, what the team should look like, and what it will cost in time and money. I lead these transformations myself as a full-time, interim, or fractional CTO, at PE-backed, VC-backed, private, and public companies across healthcare, fintech, wellness, edtech, martech, media, and adtech.
 
-I make it possible for good people to do their best work. That means aligning strategy, process, people, and technology to keep everyone focused on the right details, down to the architecture, infrastructure, and code.
+I make it possible for good people to do their best work, aligning strategy, process, people, and technology behind one outcome and staying close enough to the architecture, infrastructure, and code to know it's sound.
 
-What I care most about is building teams where trust is the default, the purpose is clear, and the work is fulfilling, which is emerging as one of the few durable advantages that any organization can embrace in an age of increasingly abundant, advanced AI. Teams that trust each other and work with joy ship better products. Customers feel the difference and reward it with their loyalty.
+What I care about most is the team. The best ones I've been part of ran on trust, a clear purpose, and joy in the work, and they built products customers loved and rewarded with their loyalty. That's the kind of team I set out to build every time.
 
 ---
 
