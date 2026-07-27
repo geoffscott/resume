@@ -36,6 +36,8 @@ The teams I build run on trust, a clear sense of purpose, and joy in the work. T
 
 **Buy-side diligence for PE sponsors.** Investment committees priced risk and made go/no-go calls on my findings. Recent targets in edtech, association SaaS, and digital learning at $3-25M revenue: architecture, technical debt, security, privacy, roadmap, and engineering org, delivered as red-flag lists and full audit reports. Earlier, ran diligence from the acquirer's chair at CBS and ARGI.
 
+**One of the web's first software stores, 1996.** Built one of the earliest hosted e-commerce and electronic software distribution platforms at UniDirect (#22 on the 1995 Inc. 500), launching the company's first online sales channel and delivering software over the internet before digital distribution went mainstream.
+
 ---
 
 ## Experience
@@ -157,7 +159,7 @@ Led a 170-person global engineering organization across New York, Colorado, Engl
 
 **Innovative Technology Solutions** — Principal Consultant, 1997 – 2007. Advised on the product roadmap for Macromedia UltraDev (then Drumbeat). Built PushTV, an interactive point-of-purchase advertising system. Built immersive exhibits for the U.S. National Park Service and the National Prisoner of War Museum. Automated laserdisc certification testing for THX (LucasFilm).
 
-**UniDirect Corporation** — Manager, Online Services, 1996 – 1997. Ran e-business for a software direct marketer that ranked #22 on the 1995 Inc. 500. Built one of the first hosted e-commerce and electronic software distribution offerings and launched the company's first online sales channel.
+**UniDirect Corporation** — Manager, Online Services, 1996 – 1997. Ran online services and e-business for this Inc. 500 software direct marketer.
 
 **Double Click Imaging / The Internet Connection** — Co-Founder & Director, 1990 – 1996. Converted a consulting company into an ISP offering connectivity, web hosting, co-location, and consulting. Built some of the earliest web-based business applications, starting in 1994. Negotiated the sale of the business. Clients included Apple Computer, Attachmate, IDG Books, Plantronics, Starfish Software, and The Santa Cruz Operation.
 
