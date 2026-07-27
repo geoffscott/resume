@@ -20,7 +20,7 @@ The teams I build run on trust, a clear sense of purpose, and joy in the work. T
 
 **Built the K-12 platform behind the IPO.** As chief technologist, I created The Princeton Review's K-12 Services division and its Homeroom.com platform, central to the growth story the company took into its $59.4M 2001 IPO. I led the 14-month, 30-person, $1.5M Homeroom.com build and shipped it on time, on budget, and on scope.
 
-**Built ARGI to acquisition, then ran the integration.** As CTO, my product strategy locked ARGI's top 10 clients into long-term renewals, the asset that made it worth acquiring, and I rebuilt its data center end to end to take 35% out of annual opex. iPacesetters acquired ARGI in 2010; post-close I integrated four IT organizations and 100 staff into one function supporting 1,500 employees across a global MPLS network in 8 offices.
+**Built ARGI to exit, then ran the integration.** As CTO, my product strategy locked ARGI's top 10 clients into long-term renewals, the asset that carried the deal, and I rebuilt its data center end to end to take 35% out of annual opex. In 2010 ARGI was rolled up with three tele-services businesses to form iPacesetters; post-close I integrated four IT organizations and 100 staff into one function supporting 1,500 employees across a global MPLS network in 8 offices.
 
 **Acquired by Designs for Health.** Prepared MBODY360 for the transaction, then ran the technology integration after close.
 
@@ -97,7 +97,7 @@ All technology for a 1,500+ employee, PE-owned sales and lead generation company
 
 All technology, including M&A, product management, engineering, professional services, and IT for a 50+ employee, PE-owned SaaS provider.
 
-- Built the product strategy that secured long-term renewals from the top 10 clients by revenue, leading directly to the November 2010 merger with iPacesetters.
+- Built the product strategy that secured long-term renewals from the top 10 clients by revenue, leading directly to the November 2010 rollup that formed iPacesetters.
 - Hit every product milestone for three-plus years, on time and under budget.
 - Rebuilt the data center and hosting infrastructure and cut annual operating expense by more than 35%.
 - Invented patent-pending technology that simplified web application integration.
