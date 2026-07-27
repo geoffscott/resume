@@ -18,7 +18,7 @@ The teams I build run on trust, a clear sense of purpose, and joy in the work. T
 
 ## Selected Deals and Transformations
 
-**$59.4M IPO.** Built The Princeton Review's K-12 division from a blank page as its chief technologist. Led the 14-month, 30-person, $1.5M build of Homeroom.com. Shipped on time, on budget, on scope. The division grew to half of total company revenue.
+**Built the K-12 platform behind the IPO.** As chief technologist, I created The Princeton Review's K-12 Services division and its Homeroom.com platform, central to the growth story the company took into its $59.4M 2001 IPO. I led the 14-month, 30-person, $1.5M Homeroom.com build and shipped it on time, on budget, and on scope.
 
 **Merger, 2010.** I built the product strategy that locked ARGI's top 10 clients into long-term renewals, the asset that made the company worth acquiring. It merged with iPacesetters that November.
 
@@ -136,7 +136,7 @@ Led a 170-person global engineering organization across New York, Colorado, Engl
 - Created the division as chief technologist and ran strategy, marketing, finance, facilities, and staffing alongside technology.
 - Built and ran a 13-person team of project managers, designers, developers, QA, and sysadmins.
 - Led the 14-month, $1.5M, 30-person build of Homeroom.com. Launched on time, on budget, on target.
-- The division grew to 50% of total company revenue and played a key role in the $59.4M IPO.
+- The division and its Homeroom.com platform featured prominently in the growth strategy of the company's $59.4M 2001 IPO.
 
 **VP, IT Strategic Systems**
 - Created the department, built the business case, ran the budget, hired the team, and stayed hands-on technically.
