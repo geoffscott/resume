@@ -20,13 +20,11 @@ The teams I build run on trust, a clear sense of purpose, and joy in the work. T
 
 **Built the K-12 platform behind the IPO.** As chief technologist, I created The Princeton Review's K-12 Services division and its Homeroom.com platform, central to the growth story the company took into its $59.4M 2001 IPO. I led the 14-month, 30-person, $1.5M Homeroom.com build and shipped it on time, on budget, and on scope.
 
-**Merger, 2010.** I built the product strategy that locked ARGI's top 10 clients into long-term renewals, the asset that made the company worth acquiring. It merged with iPacesetters that November.
-
-**Four IT organizations into one.** Post-close at iPacesetters: 100 staff absorbed, 1,500 employees supported, a global MPLS network across 8 offices.
+**Built ARGI to acquisition, then ran the integration.** As CTO, my product strategy locked ARGI's top 10 clients into long-term renewals, the asset that made it worth acquiring, and I rebuilt its data center end to end to take 35% out of annual opex. iPacesetters acquired ARGI in 2010; post-close I integrated four IT organizations and 100 staff into one function supporting 1,500 employees across a global MPLS network in 8 offices.
 
 **Acquired by Designs for Health.** Prepared MBODY360 for the transaction, then ran the technology integration after close.
 
-**35% out of annual opex.** Rebuilt ARGI's data center from power and HVAC through storage and servers. Separately took 60% off content distribution costs at CSTV without slipping a release.
+**60% off content distribution costs.** Cut CSTV's content distribution costs 60% without slipping a release.
 
 **First revenue in 11 months.** Narrativ had a real-time bidding marketplace on paper and no engineers. I hired the team, installed the operating model, and shipped it. $3M seed closed, cash flow positive.
 
