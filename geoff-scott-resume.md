@@ -1,14 +1,14 @@
 # Geoff Scott
 
-**CTO | Advisor | M&A, Technical Due Diligence & Integration | PE and Venture-Backed Transformations | 4 Exits · 1 IPO**
+**CTO | Advisor | PE and Venture-Backed Transformations | M&A, Technical Due Diligence & Integration | 4 Exits**
 
 Hudson Valley, NY · [linkedin.com/in/geoffscott](https://www.linkedin.com/in/geoffscott/) · [github.com/geoffscott](https://github.com/geoffscott)
 
-*3 Inc. 500 Teams · 2 Fortune 500 Teams · 5 Patents · 4 Exits · 1 IPO*
+*3 Inc. 500 Teams · 2 Fortune 500 Teams · 4 Exits · 5 Patents*
 
 ---
 
-I work with CEOs, boards, and sponsors on the technology decisions that make or break a transition: whether the technology can deliver the outcome they're after, what has to change, what the team should look like, and what it will cost in time and money. I help set the direction and lead delivery as a full-time, interim, or fractional CTO, at PE-backed, VC-backed, private, and public companies across healthcare, fintech, wellness, edtech, martech, media, and adtech.
+I work with CEOs, boards, and sponsors on the technology decisions that make or break a transformation: whether the technology can deliver the outcome they're after, what has to change, what the team should look like, and what it will cost in time and money. I help set the direction and lead delivery as a full-time, interim, or fractional CTO, at PE-backed, VC-backed, private, and public companies across healthcare, fintech, wellness, edtech, martech, media, and adtech.
 
 I lead by making it possible for good people to do their best work, aligning strategy, process, people, and technology around business outcomes and staying close to the architecture, infrastructure, and code to ensure sound execution.
 
@@ -20,19 +20,19 @@ The teams I build run on trust, a clear sense of purpose, and joy in the work. T
 
 **$59.4M IPO.** Built The Princeton Review's K-12 division from a blank page as its chief technologist. Led the 14-month, 30-person, $1.5M build of Homeroom.com. Shipped on time, on budget, on scope. The division grew to half of total company revenue.
 
-**Merger, 2010.** ARGI's top 10 clients were the asset an acquirer would pay for. I built the product strategy that locked their long-term renewals, and the company merged with iPacesetters that November.
+**Merger, 2010.** I built the product strategy that locked ARGI's top 10 clients into long-term renewals, the asset that made the company worth acquiring. It merged with iPacesetters that November.
 
 **Four IT organizations into one.** Post-close at iPacesetters: 100 staff absorbed, 1,500 employees supported, a global MPLS network across 8 offices.
 
-**Sold, then absorbed.** Prepared MBODY360 for acquisition by Designs for Health, then ran the technology integration after close.
+**Acquired by Designs for Health.** Prepared MBODY360 for the transaction, then ran the technology integration after close.
 
 **35% out of annual opex.** Rebuilt ARGI's data center from power and HVAC through storage and servers. Separately took 60% off content distribution costs at CSTV without slipping a release.
 
 **First revenue in 11 months.** Narrativ had a real-time bidding marketplace on paper and no engineers. I hired the team, installed the operating model, and shipped it. $3M seed closed, cash flow positive.
 
-**B2C channel in under 90 days.** One Eleven, from decision to live.
+**B2C channel in under 90 days.** One Eleven, from decision to live; the company reached operational profitability.
 
-**Buy-side diligence for PE sponsors.** Recent targets in edtech, association SaaS, and digital learning at $3-25M revenue. Architecture, technical debt, security, privacy, roadmap, and engineering org, delivered as red-flag lists and full audit reports to the investment committee. Ran diligence from the acquirer's chair on multiple transactions at CBS and at ARGI.
+**Buy-side diligence for PE sponsors.** Investment committees priced risk and made go/no-go calls on my findings. Recent targets in edtech, association SaaS, and digital learning at $3-25M revenue: architecture, technical debt, security, privacy, roadmap, and engineering org, delivered as red-flag lists and full audit reports. Earlier, ran diligence from the acquirer's chair at CBS and ARGI.
 
 ---
 
