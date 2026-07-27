@@ -1,6 +1,6 @@
 # Geoff Scott
 
-**CTO | Advisor | M&A, Technical Due Diligence & Integration | PE and Venture-Backed Transformations | 4 Exits, Including a $59.4M IPO**
+**CTO | Advisor | M&A, Technical Due Diligence & Integration | PE and Venture-Backed Transformations | 4 Exits, One via IPO**
 
 Hudson Valley, NY · [linkedin.com/in/geoffscott](https://www.linkedin.com/in/geoffscott/) · [github.com/geoffscott](https://github.com/geoffscott)
 
