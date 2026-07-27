@@ -1,14 +1,14 @@
 # Geoff Scott
 
-**CTO | Advisor | M&A, Technical Due Diligence & Integration | PE and Venture-Backed Transformations | 4 Exits, One via IPO**
+**CTO | Advisor | PE and Venture-Backed Transformations | M&A, Technical Due Diligence & Integration | 4 Exits**
 
 Hudson Valley, NY · [linkedin.com/in/geoffscott](https://www.linkedin.com/in/geoffscott/) · [github.com/geoffscott](https://github.com/geoffscott)
 
-*3 Inc. 500 Teams · 2 Fortune 500 Teams · 5 Patents · 4 Exits (1 via IPO)*
+*3 Inc. 500 Teams · 2 Fortune 500 Teams · 4 Exits · 5 Patents*
 
 ---
 
-I work with CEOs, boards, and sponsors on the technology decisions that make or break a transition: whether the technology can deliver the outcome they're after, what has to change, what the team should look like, and what it will cost in time and money. I help set the direction and lead delivery as a full-time, interim, or fractional CTO, at PE-backed, VC-backed, private, and public companies across healthcare, fintech, wellness, edtech, martech, media, and adtech.
+I work with CEOs, boards, and sponsors on the technology decisions that make or break a transformation: whether the technology can deliver the outcome they're after, what has to change, what the team should look like, and what it will cost in time and money. I help set the direction and lead delivery as a full-time, interim, or fractional CTO, at PE-backed, VC-backed, private, and public companies across healthcare, fintech, wellness, edtech, martech, media, and adtech.
 
 I lead by making it possible for good people to do their best work, aligning strategy, process, people, and technology around business outcomes and staying close to the architecture, infrastructure, and code to ensure sound execution.
 
