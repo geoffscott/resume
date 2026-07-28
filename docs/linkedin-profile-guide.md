@@ -1,146 +1,121 @@
-# LinkedIn Profile Playbook (Geoff Scott)
+# LinkedIn Profile Best Practices
 
-Context doc for optimizing the LinkedIn **profile** to grow the **consulting / fractional and interim CTO / technical due-diligence** practice. Tailored to Geoff's positioning and track record. Best practices researched 2026-07; re-verify volatile items (algorithm mechanics, feature names) before relying on them.
+A reusable guideline for building a LinkedIn profile for an independent consultant whose practice is fractional and interim CTO work and technical due diligence, aiming for inbound demand from founders, PE/VC sponsors, and boards. Use it to generate the profile. The finished profile copy (headline, About, banner) lives in separate files, not here (for example, the About draft in `geoff-scott-linkedin-about.md`). Best practices researched 2026-07; re-verify volatile items (algorithm mechanics, feature names) before relying on them.
 
-**Scope:** this covers the profile itself. Content and channel strategy (LinkedIn and Instagram, the Kindness Flywheel and CFOKit pillars) lives in [`docs/content-strategy.md`](content-strategy.md).
-
-**Audience to attract:** startup and scaleup CEOs and founders, PE/VC investors and sponsors, and boards.
-
-**This is a positioning play, not a job-seeker play.** Every element should read "I'm an established operator you hire," never "I'm available for a W2 role."
+This is a positioning play, not a job-seeker play. Every element should read "an established operator you hire," never "available for a W2 role."
 
 ---
 
-## 0. Positioning (settle this before touching any field)
+## 0. Positioning (decide this first)
 
-The strongest lever in the research is **specialist positioning over generalist**: "if you're a good candidate for everyone, you're the ideal candidate for no one." Thread three things through every section:
+Specialist beats generalist: "if you're a good candidate for everyone, you're the ideal candidate for no one." Before writing any field, settle three things and thread them through every section:
 
-1. **Who you help:** founders and CEOs of PE-backed, VC-backed, and growth-stage companies; PE/VC deal teams; boards.
-2. **What you solve:** the technology decision that makes or breaks a transition (raise, acquisition, turnaround, integration), and de-risking technology for investors.
-3. **Proof:** 4 exits (one via IPO), 30 years, hands-on; 3 Inc. 500 companies; Fortune 500 scale; patents.
+1. **Who you help** (the specific buyer and company stage).
+2. **What you solve** (the problem only they feel).
+3. **Proof** (specific, verifiable numbers: deals, exits, scale, outcomes).
 
-**Frame yourself as an operator, not an advisor.** The market pays a premium for someone who ships, not someone who presents. Your differentiator is real and rare: four exits, one an IPO, and you still write, generate, and review production code. Lead with it.
+Frame the profile around an operator, not an advisor. The market pays a premium for someone who ships, not someone who presents. Lead with the one credential that is both true and rare for the role.
 
-> Non-obvious: LinkedIn's algorithm weights **career-trajectory similarity** (title evolution, industry consistency, tenure) over a flat skills list. Mirror the profile structure of 3–5 respected peers already winning the work you want.
+> Non-obvious: LinkedIn's algorithm weights career-trajectory similarity (title evolution, industry consistency, tenure) over a flat skills list. Study the profile structure of 3–5 respected peers already winning the work you want, and mirror the shape.
 
 ---
 
 ## 1. Photo and banner
 
-**Photo:** recent, high-res, well-lit, warm but executive. Reads as a credible peer to a CEO or board. (No sunglasses, no 10-year-old headshot, no corporate-badge crop.)
+**Photo:** recent, high-res, well-lit, warm but executive. Reads as a credible peer to a CEO or board. No sunglasses, no decade-old headshot, no corporate-badge crop.
 
-**Banner:** the most under-used asset. Size 1584 × 396 px; keep text inside the central 1260 × 300 px safe zone, because mobile crops the edges. Treat it as a billboard: who you help, the outcome, and an optional call to action.
+**Banner:** the most under-used asset. Size 1584 × 396 px; keep text inside the central 1260 × 300 px safe zone, because mobile crops the edges. Treat it as a billboard.
 
-Tailored banner copy:
-- `Fractional & Interim CTO · Technical Due Diligence for PE & VC · 4 exits (one via IPO), 30 years hands-on`
-- `I help CEOs, boards, and sponsors make the technology call that carries the deal. Book a call: [calendar link]`
+Template: `[role and specialization] · [who you help and the outcome] · [proof] · [optional booking CTA]`
 
 ---
 
-## 2. Headline (220 chars; the first ~70 show in previews, so front-load)
+## 2. Headline (220 chars; the first ~70 show in previews)
 
-Formula: **[role and specialization] | [who you help and the outcome] | [proof or differentiator].** Use the exact terms buyers search ("Fractional CTO," "Interim CTO," "Technical Due Diligence"). Don't use a bare job title.
+Front-load. Use the exact terms buyers search (for this practice: "Fractional CTO," "Interim CTO," "Technical Due Diligence"), not a bare job title.
 
-Tailored options:
-1. `Fractional & Interim CTO · Technical Due Diligence for PE & VC · I help CEOs, boards & sponsors de-risk the technology call · 4 exits, still hands-on`
-2. `Fractional/Interim CTO for companies in transition · M&A tech diligence & post-merger integration · Healthcare, fintech, edtech · 4 exits, one via IPO`
-3. `Technical Due Diligence for PE/VC · Fractional & Interim CTO · Board technology advisor · The rare CTO who sets strategy and still writes production code`
+Template: `[role + specialization] | [who you help + outcome] | [proof or differentiator]`
 
-> Keep the exits/IPO phrasing consistent with the résumé (it currently says "4 Exits"). Anywhere you name the IPO, use "4 exits, one via IPO" to avoid the double-count.
+Anchor to company stage where it helps (pre-seed, Series A, growth, PE-backed), since buyers self-select by maturity.
 
 ---
 
 ## 3. Custom URL
 
-Already clean: `linkedin.com/in/geoffscott`. Use it on the résumé, the site, and your email signature.
+Claim a clean vanity URL (`linkedin.com/in/firstname-lastname`). It aids Google discovery and looks right on a deck or email signature.
 
 ---
 
-## 4. About / Summary, the conversion engine
+## 4. About / Summary (the conversion engine)
 
-**Mechanics:** 2,600-char max; aim for ~1,800–2,200 chars (~250–350 words), enough for substance without filling to the cap. The first ~300 chars on desktop (~200 on mobile) are all that show before "See more," so that is your hook. Don't spend it on "Hi, I'm Geoff." First person. Weave search keywords in naturally, no stuffing.
+**Mechanics:** 2,600-char hard limit; aim for ~1,800–2,200 chars (~250–350 words), enough for substance without filling to the cap. The first ~300 chars on desktop (~200 on mobile) are all that show before "See more," so that is the hook. First person. Weave search keywords in naturally, no stuffing.
 
-**Ready to paste** (219 words, keyword-optimized, in your voice):
+**Structure that converts for consultants:**
+1. **Hook:** a tension the buyer feels, not "Hi, I'm ___."
+2. **What you do and how:** the fractional or interim model, in plain language.
+3. **Proof:** specific numbers, client types, deal or scale metrics.
+4. **CTA:** an explicit next step (book a call, send a DM).
 
-> I help tech CEOs and their boards turn a vision into something that works, and survive the process of getting there: shaping the plan, building the team to carry it, and making the technology calls the outcome depends on.
->
-> I've done this for thirty years as an engineer who became an operator and never stopped being either, which is why I can set the strategy and still write, generate, and review production code myself. I work as a full-time, interim, or fractional CTO for companies in transition: a raise, an acquisition, a turnaround, a pivot, or outgrowing what got them here.
->
-> For investors, I run buy-side technical due diligence and lead post-merger integration, so investment committees can price technology risk before they sign. As an operator, I've built companies of my own, taken products from zero to launch, and led technology inside PE-backed, venture-backed, and public companies across healthcare, fintech, edtech, media, and adtech. Four exits, one of them an IPO, and two Inc. 500 fast-growers along the way.
->
-> The engineering teams I build run on trust, a clear sense of purpose, and joy in the work, and they ship products customers stay loyal to. Building them is the part I still find most worth doing.
->
-> Open to a few new engagements. If your company is at one of these moments, I'm glad to talk.
+Optional: end with a `Specialties:` line to pack searchable terms legitimately.
 
-Optional: append a `Specialties:` line to pack searchable terms legitimately. For example: *Specialties: Fractional CTO, Interim CTO, Technical Due Diligence, M&A technology assessment, post-merger integration, engineering org design, cloud architecture, SaaS scaling, PE/VC advisory, AI and agentic engineering.*
+Write the actual copy in the profile file, not in this guide.
 
 ---
 
-## 5. Featured, your sales page
+## 5. Featured (the sales page under the About)
 
-Pin 3–6 assets that turn a visitor into a conversation:
-- **Your résumé:** pin the live page (`geoffscott.github.io/resume`) or the PDF. This is where the full "Selected Deals" reel lives, so keep it out of the About.
-- **A lead magnet:** for example, "Technical Due Diligence: the red-flag checklist I use," or "A CTO's scaling-readiness scorecard." High value for founders and deal teams.
-- **Best-performing posts or articles,** and any podcast, panel, or video clips (high trust for this audience).
-- **Kindness Flywheel** (kindnessflywheel.org): signals your point of view on leadership in the AI age.
+Pin 3–6 assets that turn a visitor into a conversation: your résumé (link or PDF), a lead magnet (for example, a technical-due-diligence checklist or a scaling-readiness scorecard), best-performing posts, and any podcast, panel, or video clips.
 
 ---
 
-## 6. Experience, structured for a portfolio career
+## 6. Experience (portfolio career)
 
-- **Lead with the practice as one current role:** "Growth Science LLC, Founder & Principal · Fractional & Interim CTO / Technical Due Diligence," so you don't read as a job-hopper. List engagements beneath (Eyethena, One Eleven, Fund That Flip, Kepler, and the rest), each labeled by role type (Fractional CTO, Interim CTO, Advisor, Diligence Lead) and, where useful, stage.
-- **Impact over duties,** quantified, mirroring the résumé bullets ("First revenue in 11 months," "#42 on the 2019 Inc. 500," "35% out of opex").
-- **Attach media** to entries (redacted diligence samples, architecture diagrams, press, the résumé PDF). This reinforces the operator claim and the trajectory signal.
-- Keep prior exec roles (DoubleClick, CBS/CSTV, Princeton Review) visible; they justify fractional pricing.
+- Lead with the practice as one current role (Founder or Principal of your firm) so the profile doesn't read as job-hopping. List engagements beneath, each labeled by role type (Fractional CTO, Interim CTO, Advisor, Diligence Lead) and, where useful, stage.
+- Impact over duties, quantified.
+- Attach media (redacted diligence samples, architecture diagrams, press, the résumé PDF); it reinforces the operator claim and the trajectory signal.
+- Keep prior senior exec roles visible; they justify fractional pricing.
 
 ---
 
 ## 7. Services page ("Providing services"), high-ROI and under-used
 
-From your homepage: **Open, then Providing Services.**
-- Pick service labels buyers search: CTO, Technical Consulting, IT Consulting, Management Consulting, Business Consulting. Map "Technical Due Diligence" to the closest label and spell it out in the description.
-- Creates a structured Service Page discoverable on LinkedIn and Google, surfaces you in the Services tab and marketplace, and lets any member (not only your connections) message you.
-- Invite up to 20 past clients to leave a review and rating (distinct from recommendations). CEO, founder, and sponsor reviews are the ones that matter here.
-- **Do not turn on "Open to Work."** For a paid advisor it signals "between jobs" to the exact buyers you want. Use "Providing Services" instead.
+From the homepage: Open, then Providing Services.
+- Pick service labels buyers search (CTO, Technical Consulting, IT Consulting, Management Consulting, Business Consulting) and spell out specialties like technical due diligence in the description.
+- Creates a structured Service Page discoverable on LinkedIn and Google, and lets any member (not only connections) message you.
+- Invite up to 20 past clients to leave a review and rating (distinct from recommendations).
+- Do not turn on "Open to Work." For a paid advisor it signals "between jobs" to the exact buyers you want. Use "Providing Services" instead.
 
 ---
 
 ## 8. Skills and endorsements
 
-- Profiles with five or more skills get far more views. Pin your top 3 (they show first and get endorsed) to your money terms: Fractional CTO, Technical Due Diligence, Engineering Leadership.
-- Delete off-strategy skills; they dilute the trajectory signal. Endorsements help search rank; written recommendations matter far more for reputation.
+Five or more skills gets far more views. Pin the top 3 (they show first and get endorsed) to the money terms. Delete off-strategy skills; they dilute the trajectory signal. Endorsements help search rank; written recommendations matter far more for reputation.
 
 ---
 
-## 9. Recommendations, your strongest social proof
+## 9. Recommendations (the strongest social proof)
 
-- Get them from the people your buyers trust: founder and CEO clients, PE/VC deal partners, board chairs, portfolio execs. An investor writing "his diligence changed how we priced the deal" is worth more than any headline.
-- **Request with a guided prompt** so they come back specific: *"Could you write a few lines on the problem we tackled and the result? For example, the diligence scope and what it changed about the deal, or what it was like working together under time pressure."*
-- Request one after every engagement, while the impact is fresh. A few strong, recent, specific ones beat many stale generic ones.
+Get them from the people buyers trust: founder and CEO clients, PE/VC deal partners, board chairs, portfolio execs. Request with a guided prompt so they come back specific (the problem, the result, what it was like to work together). Request one after every engagement, while the impact is fresh. A few strong, recent, specific ones beat many stale generic ones.
 
 ---
 
 ## 10. Other sections (credibility amplifiers; use, don't pad)
 
-- **Patents:** dedicated section; your five reinforce "real engineer, not a talker."
-- **Publications and Speaking:** Kindness Flywheel, any talks or podcasts.
-- **Projects:** named engagements and diligences (redacted), with metrics.
-- **Honors & Awards:** the Inc. 500 rankings, the IPO.
-- **Volunteering and Board:** SIM NY Metro, Saranam; ecosystem credibility.
-- **Education:** keep it, but it doesn't lead; your track record outranks a degree at this level.
+Patents; Publications and Speaking; Projects (named, redacted engagements with metrics); Honors and Awards; Volunteering and Board roles (ecosystem credibility); Education (keep it, but it doesn't lead; track record outranks a degree at this level).
 
 ---
 
 ## 11. Content and channel strategy
 
-Lives in its own doc: **[`docs/content-strategy.md`](content-strategy.md)** (multi-channel, LinkedIn-primary plus Instagram, built around Kindness Flywheel, the CFOKit build-in-public series, and the publication). Two profile-level settings belong here, though: set the profile's primary button to **Follow** so posts build followers rather than only connections, and consider a **newsletter** for compounding subscribers on an owned channel.
+Lives in its own doc: [`docs/content-strategy.md`](content-strategy.md). Two profile-level settings belong here, though: set the profile's primary button to Follow so posts build followers rather than only connections, and consider a newsletter for compounding subscribers on an owned channel.
 
 ---
 
 ## 12. SEO and discoverability
 
-Place these terms in the fields LinkedIn indexes most (headline, About and especially its first 300 chars, top-3 skills, experience titles and descriptions, and services labels):
+Place the terms buyers search in the fields LinkedIn indexes most: headline, About (especially the first 300 chars), top-3 skills, experience titles and descriptions, and services labels. For this practice the relevant set is:
 
-`Fractional CTO · Interim CTO · Chief Technology Officer · Technical Due Diligence · Technology Due Diligence · M&A · Post-Merger Integration · CTO Advisor · Board Technology Advisor · PE-backed · Venture-backed · SaaS · AI and agentic engineering · [industries: healthcare, fintech, edtech, media, adtech]`
+`Fractional CTO · Interim CTO · Chief Technology Officer · Technical Due Diligence · Technology Due Diligence · M&A · Post-Merger Integration · CTO Advisor · Board Technology Advisor · PE-backed · Venture-backed · SaaS · AI and agentic engineering · [target industries]`
 
 Natural repetition, not stuffing. Reinforce the consistent-title trajectory signal across roles.
 
@@ -148,29 +123,20 @@ Natural repetition, not stuffing. Reinforce the consistent-title trajectory sign
 
 ## 13. Mistakes to avoid
 
-- **"Open to Work" banner:** wrong signal for a paid advisor; use "Providing Services."
-- **Generic "help everyone" positioning:** kills the specialist premium and search relevance.
-- **Résumé-style duty lists** instead of quantified outcomes.
-- **No call to action or conversion path** anywhere.
-- **Inconsistent messaging** across banner, headline, About, and experience.
-- **An optimized profile with zero activity:** it won't generate inbound on its own.
-- **Keyword stuffing; an old or low-quality photo; the default blue banner.**
-- **Advisor-only language** ("I advise on…") for a market that pays for operators who ship.
+- "Open to Work" banner: wrong signal for a paid advisor; use "Providing Services."
+- Generic "help everyone" positioning: kills the specialist premium and search relevance.
+- Duty lists instead of quantified outcomes.
+- No call to action or conversion path anywhere.
+- Inconsistent messaging across banner, headline, About, and experience.
+- An optimized profile with zero activity; it won't generate inbound on its own.
+- Keyword stuffing; an old or low-quality photo; the default blue banner.
+- Advisor-only language ("I advise on…") for a market that pays for operators who ship.
 
 ---
 
-## 14. Priority action checklist
+## How to use this guide
 
-1. **Headline:** replace with one of the three options above.
-2. **About:** paste the ready version; add the `Specialties:` line.
-3. **Banner:** add a billboard banner with a call to action.
-4. **Featured:** pin the résumé and one lead magnet.
-5. **Services page:** set it up, add labels, invite past clients to review.
-6. **Skills:** pin the top 3; prune the rest.
-7. **Recommendations:** request 3–5 from CEO clients, a PE/VC partner, and a board chair.
-8. **Experience:** umbrella under Growth Science; label each engagement by role type; attach media.
-9. **Content:** see [`docs/content-strategy.md`](content-strategy.md); set the profile's primary button to Follow.
-10. **Turn off "Open to Work"** if it's on.
+Generate each element from the sections above and put the finished copy in the profile file(s), not in this document. Keep this guide generic and reusable so it stays a guideline, not a profile.
 
 ---
 
