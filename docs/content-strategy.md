@@ -1,6 +1,6 @@
 # Multi-Channel Content Strategy (Geoff Scott)
 
-The content plan that feeds the professional presence. LinkedIn is primary; Instagram is secondary. Built around three pillars: **Kindness Flywheel** themes, a **build-in-public** log for **CFOKit's bookkeeper skill**, and the **publication itself**. Research current as of 2026-07; re-verify platform mechanics before relying on them. Copy follows `docs/voice-and-style.md`.
+The content plan that feeds the professional presence. LinkedIn is primary; Instagram is secondary. Built around three pillars: **Kindness Flywheel** themes, a **build-in-public** log for **CFOKit** (your open-source AI bookkeeper), and the **publication itself**. Research current as of 2026-07; re-verify platform mechanics before relying on them. Copy follows `docs/voice-and-style.md`.
 
 ## Goal
 
@@ -11,7 +11,7 @@ Grow the consulting / fractional-CTO / technical due-diligence practice. Everyth
 Two modes, both honest to who you are:
 
 - **Point of view (Kindness Flywheel):** human-centered leadership as AI compresses the execution layer of knowledge work. You have a real, differentiated thesis and a publication behind it. This attracts leaders thinking about the same shift.
-- **Show the work (building CFOKit, taking on QuickBooks):** you are building an AI-native bookkeeper in the open and going after an incumbent. This is a live case study *of* the Kindness Flywheel thesis (compressing the bookkeeping execution layer while keeping humans on judgment) and hard proof of the operator and agentic-engineering edge that sells the practice.
+- **Show the work (building CFOKit, taking on QuickBooks):** you are building CFOKit, an open-source, AI-native bookkeeper, in public and going after an incumbent. It is a live case study *of* the Kindness Flywheel thesis (compressing the bookkeeping execution layer while keeping humans on judgment), hard proof of the operator and agentic-engineering edge that sells the practice, and it reaches startup founders, who are the people who hire you.
 
 The two reinforce each other, and both point a prospective client at the same conclusion. The essays argue the idea; the build proves you can execute it. That conclusion is: this is the person I want on my technology.
 
@@ -19,7 +19,7 @@ The two reinforce each other, and both point a prospective client at the same co
 
 **1. Kindness Flywheel themes.** The ideas, not the org. What changes for leaders and teams when execution gets cheap and abundant; trust, purpose, and fulfilling work as the durable advantages left; where human judgment still decides; what good leadership looks like in an AI-heavy org. Formats: essays (source of truth), short opinion posts, carousels that unpack one idea.
 
-**2. Building CFOKit, taking on QuickBooks.** A running build-in-public log, one increment at a time: the problem you hit, the decision you made and why, what shipped, what broke, the lesson, with artifacts (code, prompts, diffs, before/after, a short screen capture). The challenger arc, a small AI-native bookkeeper going after an incumbent, is inherently watchable, and it is the clearest proof of the "writes, generates, and reviews production code" claim. This is one example series; other build logs and teardowns can run the same way.
+**2. Building CFOKit, taking on QuickBooks.** CFOKit is your open-source, AI-native bookkeeper: built first for your own use, aimed next at startup founders, with a commercial version later for other entrepreneurs and CPAs. A running build-in-public log, one increment at a time: the problem you hit, the decision you made and why, what shipped, what broke, the lesson, with artifacts (code, prompts, diffs, before/after, a short screen capture). Two things make this pillar carry weight. The challenger arc, a small open-source bookkeeper going after an incumbent, is inherently watchable and is the clearest proof of the "writes, generates, and reviews production code" claim. And its audience, startup founders, is the same audience that hires you, so the series builds goodwill with your buyers while it proves the work. This is one example series; other build logs and teardowns can run the same way.
 
 **3. The publication itself.** Kindness Flywheel as a thing people can read and join: new essays, milestones, the entity-formation story, and calls for contribution (it is free, CC-BY, open through GitHub). Lower frequency than the other two; use it to convert interested readers into subscribers and contributors.
 
@@ -73,6 +73,7 @@ Turn the work you are already doing into content with near-zero extra effort:
 - **Show artifacts:** a diff, a prompt, a before/after, a 20–40s screen capture. Proof beats description.
 - **Be candid about what broke.** This audience trusts candor over polish, and the failures are the most useful (and most human) posts.
 - **Tie back to the thesis** when it fits: this is what compressing an execution layer actually looks like, and where you kept a human on judgment.
+- **Lean on the open source.** Link the repo, invite issues and contributions, and let founders run it themselves. Giving it away first (the same free, community pattern as Kindness Flywheel) builds trust and reach; the commercial version for entrepreneurs and CPAs comes later.
 - **Keep a running index** on the site so the series is readable end to end and becomes a durable asset (and a CFOKit landing point).
 
 ## Measurement & iteration
@@ -85,11 +86,10 @@ All posts follow `docs/voice-and-style.md`: every character earns its place, CEO
 
 ## Open questions (to sharpen this)
 
-Goal is settled: grow the consulting practice. Remaining:
+Both settled now: the goal is to grow the consulting practice, and CFOKit is your open-source AI bookkeeper, built for yourself first, aimed at startup founders, with a commercial version later for entrepreneurs and CPAs. Remaining:
 
-1. **CFOKit's target user and your stake in it.** Who is CFOKit for (solo founders, SMBs, bookkeepers leaving QuickBooks?), and is it your own venture, a client build, or a demonstrator? This sharpens the challenger-series framing, any Instagram targeting, and how directly the build can tie to the consulting pitch.
-2. **Capacity.** Realistic weekly time for content? The cadence above is a target; the sustainable floor matters more than the ceiling.
-3. **Soft-CTA comfort.** How directly do you want a post to point at a consulting conversation? The content stays value-first either way; this only sets how often and how explicitly the practice shows up.
+1. **Capacity.** Realistic weekly time for content? The cadence above is a target; the sustainable floor matters more than the ceiling.
+2. **Soft-CTA comfort.** How directly do you want a post to point at a consulting conversation? The content stays value-first either way; this only sets how often and how explicitly the practice shows up.
 
 ## Sources
 
