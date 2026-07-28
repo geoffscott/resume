@@ -4,22 +4,22 @@ The content plan that feeds the professional presence. LinkedIn is primary; Inst
 
 ## Goal
 
-Build a durable audience and a body of public work that establishes authority and ladders back to three things at once: the consulting / fractional-CTO / diligence practice, Kindness Flywheel's readership, and CFOKit. The content does not pitch. It demonstrates a point of view and a way of working, and lets the reader come to you. (See "Open questions" for the one decision that sharpens targeting.)
+Grow the consulting / fractional-CTO / technical due-diligence practice. Everything else serves that. The content builds authority and an audience of the people who hire you (founders, PE/VC, boards) by demonstrating a distinctive point of view and your ability to execute it. It does not pitch. It earns attention with the Kindness Flywheel hypothesis and proof of the work, then lets the profile and a light CTA turn interest into a conversation. Kindness Flywheel and CFOKit are vehicles for that, not separate goals.
 
 ## Positioning
 
 Two modes, both honest to who you are:
 
 - **Point of view (Kindness Flywheel):** human-centered leadership as AI compresses the execution layer of knowledge work. You have a real, differentiated thesis and a publication behind it. This attracts leaders thinking about the same shift.
-- **Show the work (CFOKit build-in-public):** you are building an AI bookkeeper skill in the open. This proves the agentic-engineering edge that also sells the CTO practice, and it is a live case study *of* the Kindness Flywheel thesis: compressing an execution layer while keeping humans on judgment.
+- **Show the work (building CFOKit, taking on QuickBooks):** you are building an AI-native bookkeeper in the open and going after an incumbent. This is a live case study *of* the Kindness Flywheel thesis (compressing the bookkeeping execution layer while keeping humans on judgment) and hard proof of the operator and agentic-engineering edge that sells the practice.
 
-The two reinforce each other. The essays argue the idea; the build demonstrates it.
+The two reinforce each other, and both point a prospective client at the same conclusion. The essays argue the idea; the build proves you can execute it. That conclusion is: this is the person I want on my technology.
 
 ## Pillars
 
 **1. Kindness Flywheel themes.** The ideas, not the org. What changes for leaders and teams when execution gets cheap and abundant; trust, purpose, and fulfilling work as the durable advantages left; where human judgment still decides; what good leadership looks like in an AI-heavy org. Formats: essays (source of truth), short opinion posts, carousels that unpack one idea.
 
-**2. CFOKit build-in-public.** A running log of building the bookkeeper skill, one increment at a time. Each post is one unit: the problem you hit, the decision you made and why, what shipped, what broke, the lesson. Show artifacts (code, prompts, diffs, before/after, a short screen capture). This is your most differentiating pillar and the clearest proof of the "writes, generates, and reviews production code" claim.
+**2. Building CFOKit, taking on QuickBooks.** A running build-in-public log, one increment at a time: the problem you hit, the decision you made and why, what shipped, what broke, the lesson, with artifacts (code, prompts, diffs, before/after, a short screen capture). The challenger arc, a small AI-native bookkeeper going after an incumbent, is inherently watchable, and it is the clearest proof of the "writes, generates, and reviews production code" claim. This is one example series; other build logs and teardowns can run the same way.
 
 **3. The publication itself.** Kindness Flywheel as a thing people can read and join: new essays, milestones, the entity-formation story, and calls for contribution (it is free, CC-BY, open through GitHub). Lower frequency than the other two; use it to convert interested readers into subscribers and contributors.
 
@@ -28,7 +28,7 @@ Optional light fourth pillar: an occasional operator/diligence take that ties th
 ## Channel roles
 
 - **LinkedIn (primary).** Where your consulting buyers already are: CEOs, founders, PE/VC, boards. Best for the essays, the operator angle, and build-log posts framed around the lesson. This is the authority and business-development channel.
-- **Instagram (secondary).** Broader reach and a home for the movement. Best for the visual and short-video treatments of the same ideas, and for reaching small-business owners and founders who may care about CFOKit. Treat it as audience-building and reach, not direct BD.
+- **Instagram (secondary, optional).** Your consulting buyers live on LinkedIn, so treat Instagram as a reach-and-brand bet, not a BD channel. It fits the CFOKit-vs-QuickBooks story best, since a challenger narrative travels on short video, and it can reach founders and small-business owners. Add it once the LinkedIn rhythm is sustainable, and do not let it compete with the channel that actually converts.
 - **The publication + a newsletter** are the owned home base both channels point to. Social is rented; move engaged readers to the site and an email list you control.
 
 ## LinkedIn playbook
@@ -77,7 +77,7 @@ Turn the work you are already doing into content with near-zero extra effort:
 
 ## Measurement & iteration
 
-Track per channel, monthly: follower growth, post reach/impressions, engagement rate, saves and DM shares (the signals that actually drive distribution), profile visits, newsletter signups, and inbound conversations or booked calls. Watch which pillar and which format earn saves, shares, and DMs, and do more of that. Vanity likes are the weakest signal on both platforms.
+The north-star metric is **inbound consulting conversations** (founders, PE/VC, boards reaching out). Everything else is a leading indicator: follower growth, reach, engagement rate, saves and DM shares (the signals that drive distribution), profile visits, and newsletter signups. Track monthly per channel and watch which pillar and format drive profile visits and DMs from your actual buyers, not just volume. Vanity likes are the weakest signal on both platforms.
 
 ## Voice
 
@@ -85,9 +85,11 @@ All posts follow `docs/voice-and-style.md`: every character earns its place, CEO
 
 ## Open questions (to sharpen this)
 
-1. **Primary goal.** Is the point mainly to grow the consulting practice, grow Kindness Flywheel's readership, grow CFOKit's users, or build one audience that serves all three? This sets the CTAs and what you measure.
-2. **CFOKit specifics.** What is CFOKit, who is the bookkeeper skill for (small-business owners, founders, finance teams?), and how does it relate to Kindness Flywheel? The build-log pillar and the Instagram targeting sharpen a lot once this is clear.
-3. **Capacity.** Realistic weekly time for content? The cadence above is a target; the sustainable floor matters more than the ceiling.
+Goal is settled: grow the consulting practice. Remaining:
+
+1. **CFOKit's target user and your stake in it.** Who is CFOKit for (solo founders, SMBs, bookkeepers leaving QuickBooks?), and is it your own venture, a client build, or a demonstrator? This sharpens the challenger-series framing, any Instagram targeting, and how directly the build can tie to the consulting pitch.
+2. **Capacity.** Realistic weekly time for content? The cadence above is a target; the sustainable floor matters more than the ceiling.
+3. **Soft-CTA comfort.** How directly do you want a post to point at a consulting conversation? The content stays value-first either way; this only sets how often and how explicitly the practice shows up.
 
 ## Sources
 
