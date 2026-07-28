@@ -1,6 +1,8 @@
 # LinkedIn Profile Playbook — Geoff Scott
 
-Context doc for optimizing the LinkedIn profile to grow the **consulting / fractional & interim CTO / technical due-diligence** practice. Tailored to Geoff's positioning and track record. Best practices researched 2026-07; re-verify volatile items (algorithm mechanics, feature names) before relying on them.
+Context doc for optimizing the LinkedIn **profile** to grow the **consulting / fractional & interim CTO / technical due-diligence** practice. Tailored to Geoff's positioning and track record. Best practices researched 2026-07; re-verify volatile items (algorithm mechanics, feature names) before relying on them.
+
+**Scope:** this covers the profile itself. Content and channel strategy (LinkedIn + Instagram, the Kindness Flywheel and CFOKit pillars) lives in [`docs/content-strategy.md`](content-strategy.md).
 
 **Audience to attract:** startup/scaleup CEOs and founders, PE/VC investors and sponsors, and boards.
 **This is a social-selling / positioning play, not a job-seeker play.** Every element should read "I'm an established operator you hire," never "I'm available for a W2 role."
@@ -127,21 +129,9 @@ From your homepage: **Open → Providing Services.**
 
 ---
 
-## 11. Content strategy — the inbound flywheel
+## 11. Content & channel strategy
 
-The profile *converts*; content *attracts*. Funnel: awareness → engagement → conversations → booked calls.
-
-- **Cadence:** 3–5 posts/week, each speaking to one buyer problem. Consistency and relevance beat volume.
-- **Formats (2026):** carousels/PDF documents and native short video (<90s) lead engagement; deep B2B storytelling text converts even with fewer likes; native beats external links. Rough mix **60% educational / 30% thought-leadership / 10% engagement (polls/questions).**
-- **Algorithm mechanics:** first ~60 min is classification; **reply to comments in the first 30 min** (cited ~64% more comments, ~2.3× views); comments ≈ 2× the weight of likes; **dwell time rules** — write for read-time (hooks, stories, carousels). Post in B2B mornings Tue–Thu, but verify against *your* analytics.
-- **Themes that generate inbound for you:**
-  - Diligence teardowns: "5 red flags I look for in a codebase during diligence," "how to read an engineering org in 30 minutes."
-  - Operator takes: build-vs-buy at Series A, technical debt, scaling engineering, **agentic/AI adoption** (your live edge — One Eleven, phaedrus).
-  - Investor-facing: what PE/VC deal teams miss on tech risk.
-  - Anonymized client-result narratives + the lesson.
-  - **Kindness Flywheel** themes: human-centered leadership as AI compresses execution.
-- **Social-sell in comments** on your ICP's posts (founders, GPs, board members), then move warm threads to DMs with a soft CTA.
-- Consider a **newsletter** ("The Fractional CTO Playbook" / "Technical Due Diligence Notes") and set the profile's primary button to **Follow** so posts build followers, not just connections.
+Lives in its own doc: **[`docs/content-strategy.md`](content-strategy.md)** (multi-channel, LinkedIn-primary plus Instagram, built around Kindness Flywheel, the CFOKit build-in-public series, and the publication). Two profile-level settings belong here, though: set the profile's primary button to **Follow** so posts build followers rather than only connections, and consider a **newsletter** for compounding subscribers on an owned channel.
 
 ---
 
@@ -178,7 +168,7 @@ Natural repetition, not stuffing. Reinforce the consistent-title trajectory sign
 6. **Skills** → pin the top 3; prune the rest.
 7. **Recommendations** → request 3–5 from CEO clients + a PE/VC partner + a board chair.
 8. **Experience** → umbrella under Growth Science; label each engagement by role type; attach media.
-9. **Content** → start a 3×/week cadence on the themes above; set primary button to Follow.
+9. **Content** → see [`docs/content-strategy.md`](content-strategy.md); set the profile's primary button to Follow.
 10. **Turn OFF "Open to Work"** if it's on.
 
 ---
