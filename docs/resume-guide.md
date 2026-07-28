@@ -38,7 +38,7 @@ The résumé is a **supporting** asset. The BD engine is positioning: LinkedIn, 
 
 - **3–5 lines, one idea per line.** Past five, it reads as a paragraph, not a pitch.
 - **Forward-looking value proposition, anchored by proof** — what you deliver to the buyer, backed by concrete outcomes. (Accomplishment-focused summaries reportedly out-pull objective-style openers by a wide margin.)
-- *(Your three-paragraph About is in good shape and in your voice. For a tighter BD cut, consider compressing to ~4 lines led by the "engineer who never stopped building / still reads the code" differentiator + one proof beat.)*
+- *(Your three-paragraph About is in good shape and in your voice. For a tighter BD cut, consider compressing to ~4 lines led by the "engineer who never stopped building / still writes, generates, and reviews production code" differentiator + one proof beat.)*
 
 ---
 

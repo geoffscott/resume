@@ -15,7 +15,7 @@ The strongest lever in all the research is **specialist positioning over general
 2. **What you solve** — the technology decision that makes or breaks a transition (raise, acquisition, turnaround, integration), and de-risking technology for investors.
 3. **Proof** — 4 exits, an IPO, 30 years, hands-on; 3 Inc. 500 companies; Fortune 500 scale; patents.
 
-**Frame yourself as an operator, not an advisor.** The market pays a premium for "scars, not slides" — someone who ships, not someone who presents. Your differentiator is real and rare: *four exits and an IPO, and you still read the code.* Lead with it.
+**Frame yourself as an operator, not an advisor.** The market pays a premium for "scars, not slides" — someone who ships, not someone who presents. Your differentiator is real and rare: *four exits and an IPO, and you still write, generate, and review production code.* Lead with it.
 
 > Non-obvious: LinkedIn's algorithm weights **career-trajectory similarity** (title evolution, industry consistency, tenure) over a flat skills list. Mirror the profile structure of 3–5 respected peers already winning the work you want.
 
@@ -40,7 +40,7 @@ Formula: **[Role + specialization] | [Who you help + outcome] | [proof/different
 Tailored options:
 1. `Fractional & Interim CTO · Technical Due Diligence for PE & VC · I help CEOs, boards & sponsors de-risk the technology call · 4 exits, still hands-on`
 2. `Fractional/Interim CTO for companies in transition · M&A tech diligence & post-merger integration · Healthcare, fintech, edtech · 4 exits · 1 IPO · 30 yrs`
-3. `Technical Due Diligence for PE/VC · Fractional & Interim CTO · Board technology advisor · The rare CTO who sets strategy and still reads the code`
+3. `Technical Due Diligence for PE/VC · Fractional & Interim CTO · Board technology advisor · The rare CTO who sets strategy and still writes production code`
 
 > Keep the exits/IPO phrasing consistent with the résumé (it currently says "4 Exits"; if you add the IPO, use "4 exits, one via IPO" to avoid the double-count you flagged earlier).
 
@@ -60,7 +60,7 @@ Already clean: `linkedin.com/in/geoffscott`. ✅ Use it on the résumé, site, a
 
 > I help tech CEOs and their boards turn a vision into something that works, and survive the process of getting there: shaping the plan, building the team to carry it, and making the technology calls the outcome depends on.
 >
-> I've done this for thirty years as an engineer who became an operator and never stopped being either, which is why I can set the strategy and still read the code myself. I work as a full-time, interim, or fractional CTO for companies in transition: a raise, an acquisition, a turnaround, a pivot, or outgrowing what got them here.
+> I've done this for thirty years as an engineer who became an operator and never stopped being either, which is why I can set the strategy and still write, generate, and review production code myself. I work as a full-time, interim, or fractional CTO for companies in transition: a raise, an acquisition, a turnaround, a pivot, or outgrowing what got them here.
 >
 > For investors, I run buy-side technical due diligence and lead post-merger integration, so investment committees can price technology risk before they sign. As an operator, I've built companies of my own, taken products from zero to launch, and led technology inside PE-backed, venture-backed, and public companies across healthcare, fintech, edtech, media, and adtech. Four exits, one IPO, and two Inc. 500 fast-growers along the way.
 >
