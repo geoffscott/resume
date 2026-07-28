@@ -14,7 +14,7 @@ Repo for Geoff Scott's résumé and professional-presence content.
 
 All prose written as or for Geoff follows `docs/voice-and-style.md`. Read it before writing copy. In short:
 
-- **Every character earns its place.** CEO register, not juvenile. Confident about outcomes, humble about credit. Show, don't tell. Vary sentence rhythm.
+- **Every character earns its place.** CEO register, not juvenile. Confident about outcomes, humble about credit. Show, don't tell. Complete, grammatically correct sentences; vary their length (a deliberate fragment for punch is fine, sloppy grammar is not).
 - **Grounded in verifiable fact.** Prefer defensible ranges; verify or cut. It must survive a diligence read.
 - **No em-dashes.** No manufactured antitheses ("not X but Y"), no "X is the work" aphorisms, no tricolons-for-effect, no neat causal buttons.
 - **No hype / résumé-bot words** (passionate, proven, leverage, transformative, seamless, spearheaded, thought leader, "at the intersection of"…). No hedges for things he's done. No "bring me in" gig framing.
