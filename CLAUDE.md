@@ -4,7 +4,7 @@ Repo for Geoff Scott's résumé and professional-presence content.
 
 ## What's here
 - `geoff-scott-resume.md`: the résumé (single source). Builds to PDF/DOCX/HTML via `make` (pandoc + WeasyPrint); GitHub Actions deploys to GitHub Pages on push to `main`. Pagination/styling in `styles/resume.css`.
-- `docs/`: reference context, not part of the build. `voice-and-style.md` (the writing standard), `linkedin-profile-guide.md` (generic LinkedIn best practices; a guideline used to generate the profile, not the profile copy), `content-strategy.md` (multi-channel content: LinkedIn + Instagram, Kindness Flywheel + CFOKit), `resume-guide.md`.
+- `docs/`: reference context, not part of the build. `voice-and-style.md` (the writing standard), `linkedin-profile-guide.md` (generic LinkedIn best practices; a guideline used to generate the profile, not the profile copy), `content-strategy.md` (Geoff's applied multi-channel content plan: LinkedIn + Instagram, Kindness Flywheel + CFOKit), `resume-guide.md` (generic résumé best practices; the résumé artifact is `geoff-scott-resume.md`).
 - Profile/artifact copy lives in its own files, separate from the guides. The canonical LinkedIn About draft is `geoff-scott-linkedin-about.md` (untracked working file). Keep best-practice guides generic; keep the applied copy in artifact files.
 
 ## Working rules
