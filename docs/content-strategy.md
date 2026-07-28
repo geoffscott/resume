@@ -1,4 +1,4 @@
-# Multi-Channel Content Strategy — Geoff Scott
+# Multi-Channel Content Strategy (Geoff Scott)
 
 The content plan that feeds the professional presence. LinkedIn is primary; Instagram is secondary. Built around three pillars: **Kindness Flywheel** themes, a **build-in-public** log for **CFOKit's bookkeeper skill**, and the **publication itself**. Research current as of 2026-07; re-verify platform mechanics before relying on them. Copy follows `docs/voice-and-style.md`.
 
@@ -58,7 +58,7 @@ Repurposing is adaptation, not reposting. One pillar piece becomes several chann
 
 ## Weekly cadence template (sustainable starting point)
 
-- **LinkedIn:** 3 posts — one Kindness Flywheel idea, one CFOKit build-log, one operator take or publication note.
+- **LinkedIn:** 3 posts: one Kindness Flywheel idea, one CFOKit build-log, one operator take or publication note.
 - **Instagram:** 2 Reels + 1 carousel, repurposed from the same three pillars.
 - **Stories:** 2–3/week, behind-the-scenes of the build and the writing.
 - **Engagement block:** 15–20 min/day commenting on your audience's posts (founders, GPs, leaders you respect), and replying to every comment on your own posts within 30 minutes.
