@@ -40,7 +40,7 @@ The teams I build run on trust, a clear sense of purpose, and joy in the work. T
 
 ## Experience
 
-### Growth Science LLC — Founder & Principal | Fractional & Interim CTO, Technical Due Diligence
+### Growth Science LLC, Founder & Principal | Fractional & Interim CTO, Technical Due Diligence
 *April 2018 – Present*
 
 I work with CEOs, boards, and sponsors at companies in transition: a raise, an acquisition, a new product or market, a turnaround, a pivot.
@@ -51,23 +51,23 @@ I work with CEOs, boards, and sponsors at companies in transition: a raise, an a
 
 A representative sample. Across them I've served as fractional CTO, interim CTO, or advisor, from founding through exit:
 
-**Eyethena** — Fractional CTO, February 2022 – Present
+**Eyethena**, Fractional CTO, February 2022 – Present
 Prescription digital therapeutic for specialty chronic care. Idea to seed: built the team, set the FDA regulatory strategy, and co-invented four AI patents and one hardware patent. Glaucoma product in patient pilot.
 
-**One Eleven** — Fractional CTO, April 2018 – Present
+**One Eleven**, Fractional CTO, April 2018 – Present
 Wealth coaching for the paycheck-to-paycheck majority. Idea to seed to profitability; moved engineering to agentic workflows.
 
-**Narrativ** — Interim CTO and Advisor, August 2014 – August 2024
+**Narrativ**, Interim CTO and Advisor, August 2014 – August 2024
 Monetization technology for digital content producers. Interim CTO through seed and cash-flow-positive, building the product org and a real-time bidding marketplace; stayed on as advisor across a decade.
 
-**Emissary.io** — Interim CTO, October 2018 – May 2019
+**Emissary.io**, Interim CTO, October 2018 – May 2019
 Sales intelligence platform connecting enterprise sales teams to former Fortune 1000 executives. Between its Series A and Series B, I stepped in mid-transition to steady the engineering team and keep product shipping, and helped vet and hire the permanent CTO.
 
-**Fund That Flip** — Advisor, 2018 – 2021. Real-estate lending fintech, #42 on the 2019 Inc. 500. Advised engineering leadership as it scaled.
+**Fund That Flip**, Advisor, 2018 – 2021. Real-estate lending fintech, #42 on the 2019 Inc. 500. Advised engineering leadership as it scaled.
 
 ---
 
-### Hackerati — Founder & CEO
+### Hackerati, Founder & CEO
 *July 2012 – April 2018*
 
 Built a technology firm that sold into business inflection points: launch, scale, funding rounds, pivots, new market entry, exits. Bootstrapped to 35 people in three years at 100% year-over-year revenue growth.
@@ -77,7 +77,7 @@ Built a technology firm that sold into business inflection points: launch, scale
 
 ---
 
-### iPacesetters — Chief Technology Officer
+### iPacesetters, Chief Technology Officer
 *November 2010 – January 2012*
 
 All technology for a 1,500+ employee, PE-owned sales and lead generation company formed by merging ARGI with three tele-services businesses.
@@ -88,7 +88,7 @@ All technology for a 1,500+ employee, PE-owned sales and lead generation company
 
 ---
 
-### ARGI — Chief Technology Officer
+### ARGI, Chief Technology Officer
 *May 2007 – November 2010*
 
 All technology, including M&A, product management, engineering, professional services, and IT for a 50+ employee, PE-owned SaaS provider.
@@ -100,7 +100,7 @@ All technology, including M&A, product management, engineering, professional ser
 
 ---
 
-### CSTV Networks, a CBS Company (NYSE: CBS) — VP, Digital Technology
+### CSTV Networks, a CBS Company (NYSE: CBS), VP, Digital Technology
 *May 2006 – April 2007*
 
 All division technology and primary liaison to the CBS technology organization following CBS's acquisition of CSTV.
@@ -111,7 +111,7 @@ All division technology and primary liaison to the CBS technology organization f
 
 ---
 
-### Donnelley Marketing (NASDAQ: IUSA) — VP, Product Development
+### Donnelley Marketing (NASDAQ: IUSA), VP, Product Development
 *April 2005 – February 2006*
 
 Direct marketing data products: discovery, visualization, analytics, campaign and list management, data mining, hygiene, enhancement, and privacy.
@@ -121,7 +121,7 @@ Direct marketing data products: discovery, visualization, analytics, campaign an
 
 ---
 
-### DoubleClick (NASDAQ: DCLK) — VP, Engineering
+### DoubleClick (NASDAQ: DCLK), VP, Engineering
 *April 2004 – March 2005*
 
 Led a 170-person global engineering organization across New York, Colorado, England, and India on a platform serving roughly 5 billion impressions per day. $10M budget.
@@ -151,11 +151,11 @@ Led a 170-person global engineering organization across New York, Colorado, Engl
 
 ## Earlier
 
-**Innovative Technology Solutions** — Principal Consultant, 1997 – 2007. Advised on the product roadmap for Macromedia UltraDev (then Drumbeat). Built PushTV, an interactive point-of-purchase advertising system. Built immersive exhibits for the U.S. National Park Service and the National Prisoner of War Museum. Automated laserdisc certification testing for THX (LucasFilm).
+**Innovative Technology Solutions**, Principal Consultant, 1997 – 2007. Advised on the product roadmap for Macromedia UltraDev (then Drumbeat). Built PushTV, an interactive point-of-purchase advertising system. Built immersive exhibits for the U.S. National Park Service and the National Prisoner of War Museum. Automated laserdisc certification testing for THX (LucasFilm).
 
-**UniDirect Corporation** — Manager, Online Services, 1996 – 1997. Ran online services and e-business for this Inc. 500 software direct marketer.
+**UniDirect Corporation**, Manager, Online Services, 1996 – 1997. Ran online services and e-business for this Inc. 500 software direct marketer.
 
-**Double Click Imaging / The Internet Connection** — Co-Founder & Director, 1990 – 1996. Converted a consulting company into an ISP offering connectivity, web hosting, co-location, and consulting. Built some of the earliest web-based business applications, starting in 1994. Negotiated the sale of the business. Clients included Apple Computer, Attachmate, IDG Books, Plantronics, Starfish Software, and The Santa Cruz Operation.
+**Double Click Imaging / The Internet Connection**, Co-Founder & Director, 1990 – 1996. Converted a consulting company into an ISP offering connectivity, web hosting, co-location, and consulting. Built some of the earliest web-based business applications, starting in 1994. Negotiated the sale of the business. Clients included Apple Computer, Attachmate, IDG Books, Plantronics, Starfish Software, and The Santa Cruz Operation.
 
 ---
 
@@ -163,9 +163,9 @@ Led a 170-person global engineering organization across New York, Colorado, Engl
 
 **Agentic engineering.** Drove adoption at One Eleven, moving delivery to agent-assisted workflows with humans on architecture and review. [Add the delivery metric here: throughput change, cycle time, or headcount avoided.]
 
-**Cloud architecture.** Scale-to-zero services on GCP — Cloud Run, Functions gen2, Compute Engine, Secret Manager, IAP, IAM. Identity-gated access, no public attack surface, idempotent infrastructure.
+**Cloud architecture.** Scale-to-zero services on GCP: Cloud Run, Functions gen2, Compute Engine, Secret Manager, IAP, IAM. Identity-gated access, no public attack surface, idempotent infrastructure.
 
-**Open source, MIT** (github.com/geoffscott) — *phaedrus*, a publishing platform where human editors, AI agents, and developers all ship through one PR review gate; *openclaw-deploy-to-gcp*, agent gateway deployment hardened for SOC 2 with no public attack surface and secrets never at rest on disk; plus two agent skills.
+**Open source, MIT** (github.com/geoffscott): *phaedrus*, a publishing platform where human editors, AI agents, and developers all ship through one PR review gate; *openclaw-deploy-to-gcp*, agent gateway deployment hardened for SOC 2 with no public attack surface and secrets never at rest on disk; plus two agent skills.
 
 **At scale, earlier:** 90M uniques/month web platforms, 330+ TB/month data pipelines, 10K events/second real-time processing, programmatic RTB, NLP and machine learning.
 
@@ -179,11 +179,11 @@ Co-inventor of four issued U.S. patents covering digital therapeutic monitoring 
 
 ## Board Service
 
-**SIM New York Metro (nysim.org)** — the New York chapter of the Society for Information Management, a professional association of senior IT executives (501c6).
+**SIM New York Metro (nysim.org)**, the New York chapter of the Society for Information Management, a professional association of senior IT executives (501c6).
 - Treasurer, 2025 – Present
 - Board Member and Marketing Director, 2022 – 2024
 
-**Saranam Center for Healing and Transformation (saranamcenter.org)** — [brief description of the organization's mission] (501c3).
+**Saranam Center for Healing and Transformation (saranamcenter.org)**, [brief description of the organization's mission] (501c3).
 - Secretary and Board Member, 2025 – Present
 - Advisor, 2023 – 2024
 
@@ -191,7 +191,7 @@ Co-inventor of four issued U.S. patents covering digital therapeutic monitoring 
 
 ## Publication
 
-**Kindness Flywheel** (kindnessflywheel.org) — Founder. Nonprofit publication I created on human-centered leadership as AI compresses the execution layer of knowledge work. Free, unmonetized, CC-BY 4.0, open to community contribution through GitHub. Entity formation in progress.
+**Kindness Flywheel** (kindnessflywheel.org), Founder. Nonprofit publication I created on human-centered leadership as AI compresses the execution layer of knowledge work. Free, unmonetized, CC-BY 4.0, open to community contribution through GitHub. Entity formation in progress.
 
 ---
 
