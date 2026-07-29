@@ -63,12 +63,6 @@ Monetization technology for digital content producers. Interim CTO through seed 
 **Emissary.io** — Interim CTO, October 2018 – May 2019
 Sales intelligence platform connecting enterprise sales teams to former Fortune 1000 executives. Between its Series A and Series B, I stepped in mid-transition to steady the engineering team and keep product shipping, and helped vet and hire the permanent CTO.
 
-**MBODY360** — Advisor, April 2018 – August 2020. Personalized medicine platform. Advised from pre-seed through its acquisition by Designs for Health.
-
-**Ziel Inc. PBC** — Advisor, January 2017 – June 2020. On-demand manufacturing and retail for mid-sized lifestyle brands.
-
-**Kepler Group** — Advisor, 2016 – 2020. Marketing and advertising technology, #429 on the 2016 Inc. 500. Advised engineering leadership on a fast, high-trust culture.
-
 **Fund That Flip** — Advisor, 2018 – 2021. Real-estate lending fintech, #42 on the 2019 Inc. 500. Advised engineering leadership as it scaled.
 
 ---
