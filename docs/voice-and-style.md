@@ -19,7 +19,7 @@ Write like a CEO who is also an engineer: confident, humble, plain, exact. Claim
 
 ## AI tells (banned)
 
-- **Em-dashes.** Use commas, colons, or periods.
+- **Em-dashes.** Avoid them. For an aside or emphasis, use a period or a comma. To introduce a list or an explanation, use a colon. For a field separator in a heading (company, title, dates), use a comma or a pipe, not a colon. Date ranges keep the en-dash (2018–2020).
 - **Manufactured antithesis:** "not X but Y," "operator instead of a recommendation," "shipping or performing." One earned contrast is fine; hollow ones are not.
 - **Definitional aphorisms:** "X is the work," "The job is to…," "Success isn't about…."
 - **Tricolons / parallelism for effect:** the triple "myself… myself… myself"; three tidy parallel clauses in a row.
@@ -47,7 +47,7 @@ Each pairs the original against the version that actually shipped, not an interi
 - "I read an architecture myself, price the technical debt myself, and know whether a team is shipping or performing." → "I set the strategy and still write, generate, and review production code myself." *(killed the triple "myself" and the "shipping or performing" antithesis; the passive "read" became active production verbs)*
 - "CEOs, boards, and sponsors bring me in on the technology decisions…" → "I work with CEOs, boards, and sponsors on the technology decisions…" *(hired-gun framing became peer framing)*
 - "The division grew to half of total company revenue." → "central to the growth story the company took into its $59.4M 2001 IPO." *(an unverifiable, and in fact false, stat became a claim the S-1 supports)*
-- Every em-dash became a comma, colon, or period.
+- Every em-dash became a colon (introducing a list) or a comma (a heading separator or an aside).
 
 ## Pre-publish checklist
 
