@@ -28,6 +28,7 @@ Write like a CEO who is also an engineer: confident, humble, plain, exact. Claim
 - **New-age / soft filler:** "landing," "gut call," "journey" (unless literal), "make it possible for people to shine."
 - **Hedges for things you've done:** sometimes, often, "I've come to believe," "I try to." You did it; say so.
 - **Gig / hired-gun framing:** "bring me in," "available for." You work *with* principals and set direction.
+- **Fake / inexperienced role-play phrases:** "I take the CTO seat," "carry the technical side," and similar hollow stand-ins. They read as junior or machine-written. State plainly what you do (serve as interim CTO; answer for the technology in investor meetings).
 - **Preaching general laws to the reader.** State what's true of you and your teams, not universal maxims.
 
 ## How to claim things

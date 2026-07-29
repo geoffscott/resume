@@ -16,7 +16,7 @@ The teams I build run on trust, a clear sense of purpose, and joy in the work. T
 
 ---
 
-## Selected Deals and Transformations
+## Selected Outcomes
 
 **Built the K-12 platform behind the IPO.** As chief technologist, I created The Princeton Review's K-12 Services division and its Homeroom.com platform, central to the growth story the company took into its $59.4M 2001 IPO. I led the 14-month, 30-person, $1.5M Homeroom.com build and shipped it on time, on budget, and on scope.
 
@@ -40,34 +40,36 @@ The teams I build run on trust, a clear sense of purpose, and joy in the work. T
 
 ## Experience
 
-### Growth Science LLC — Fractional CTO, Consultant, Advisor
+### Growth Science LLC — Founder & Principal | Fractional & Interim CTO, Technical Due Diligence
 *April 2018 – Present*
 
-I advise and operate at companies in transition. CEOs and sponsors call when they are raising, pivoting, absorbing a deal, outgrowing what got them here, or burning runway faster than they are learning.
+I work with CEOs, boards, and sponsors at companies in transition: a raise, an acquisition, a new product or market, a turnaround, a pivot.
 
-**For investors.** Investment committees price technology risk into their deals on the strength of my findings. Buy-side diligence on acquisition targets in edtech, association SaaS, and digital learning, covering architecture and technical debt, infrastructure, security, data privacy, product roadmap, and the engineering organization, delivered as a written audit report to the committee. Also sell-side readiness work for sponsors preparing a portfolio company to be examined. Sponsor references on request.
+**For investors.** Investment committees price technology risk on the strength of my findings. I run buy-side technical diligence, sell-side readiness, and post-merger integration for private equity and strategic sponsors on targets in edtech, association SaaS, and digital learning.
 
-**For operators.** Interim and fractional CTO seats, and standing advisory relationships with CEOs and founders through raises, pivots, and organizational change. I carry the technical side of investor and sales meetings.
+**For operators.** I serve as interim or fractional CTO, advising CEOs and founders through raises, pivots, and organizational change, and representing the technology in their investor and sales meetings.
+
+A representative sample. Across them I've served as fractional CTO, interim CTO, or advisor, from founding through exit:
 
 **Eyethena** — Fractional CTO, February 2022 – Present
-Prescription digital therapeutic for specialty chronic care. Idea to seed. Co-invented four AI patents and one hardware patent, defined the FDA regulatory strategy, and built the technical team. Initial glaucoma product is in patient pilot.
+Prescription digital therapeutic for specialty chronic care. Idea to seed: built the team, set the FDA regulatory strategy, and co-invented four AI patents and one hardware patent. Glaucoma product in patient pilot.
 
 **One Eleven** — Fractional CTO, April 2018 – Present
-Wealth coaching for the 70% of Americans living paycheck to paycheck. Idea to seed to operational profitability. Launched a B2C channel in under three months and moved the engineering practice to agentic workflows.
+Wealth coaching for the paycheck-to-paycheck majority. Idea to seed to profitability; moved engineering to agentic workflows.
 
 **Narrativ** — Interim CTO and Advisor, August 2014 – August 2024
-Monetization technology for digital content producers. Built the product development organization and a marketplace platform where merchants bid on publisher content in real time. First revenue in under 11 months. Helped close a $3M seed and reach positive cash flow. Stayed on as advisor: technology strategy, investor and executive introductions, and the technical seat in sales and investor meetings.
+Monetization technology for digital content producers. Interim CTO through seed and cash-flow-positive, building the product org and a real-time bidding marketplace; stayed on as advisor across a decade.
 
-**Magnolia Partners** — Co-Founder, January 2019 – August 2022
-Startup platform for cannabis companies offering strategy, marketing, people, and technology services on revenue-based financing terms, with no equity taken and no personal guarantees.
+**Emissary.io** — Interim CTO, October 2018 – May 2019
+Sales intelligence platform connecting enterprise sales teams to former Fortune 1000 executives. Between its Series A and Series B, I stepped in mid-transition to steady the engineering team and keep product shipping, and helped vet and hire the permanent CTO.
 
-**MBODY360** — Advisor, April 2018 – August 2020. Personalized medicine platform. Pre-seed through acquisition by Designs for Health, where I prepared the company for the transaction and led the technology integration post-close.
+**MBODY360** — Advisor, April 2018 – August 2020. Personalized medicine platform. Advised from pre-seed through its acquisition by Designs for Health.
 
 **Ziel Inc. PBC** — Advisor, January 2017 – June 2020. On-demand manufacturing and retail for mid-sized lifestyle brands.
 
-**Kepler Group** — Advisor, 2016 – 2020. Marketing and advertising technology; #429 on the 2016 Inc. 500. Advised engineering leadership on a fast, pragmatic, high-trust engineering culture, continued from Hackerati into Growth Science.
+**Kepler Group** — Advisor, 2016 – 2020. Marketing and advertising technology, #429 on the 2016 Inc. 500. Advised engineering leadership on a fast, high-trust culture.
 
-**Fund That Flip** — Advisor, 2018 – 2021. Real-estate lending fintech; #42 on the 2019 Inc. 500. Advised engineering leadership on a fast, pragmatic, high-trust engineering culture.
+**Fund That Flip** — Advisor, 2018 – 2021. Real-estate lending fintech, #42 on the 2019 Inc. 500. Advised engineering leadership as it scaled.
 
 ---
 
