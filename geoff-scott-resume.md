@@ -183,7 +183,7 @@ Co-inventor of four issued U.S. patents covering digital therapeutic monitoring 
 - Treasurer, 2025 – Present
 - Board Member and Marketing Director, 2022 – 2024
 
-**Saranam Center for Healing and Transformation (saranamcenter.org)**, [brief description of the organization's mission] (501c3).
+**Saranam Center for Healing and Transformation (saranamcenter.org)**, a 100+ acre sanctuary in New York's Capital Region where teachers, practitioners, and groups from wisdom traditions around the world gather for retreats, ceremonies, and healing work. (501c3).
 - Secretary and Board Member, 2025 – Present
 - Advisor, 2023 – 2024
 
