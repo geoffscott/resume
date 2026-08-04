@@ -191,7 +191,8 @@ Co-inventor of four issued U.S. patents covering digital therapeutic monitoring 
 
 ## Publication
 
-**Kindness Flywheel** (kindnessflywheel.org), Founder. Nonprofit publication I created on human-centered leadership as AI compresses the execution layer of knowledge work. Free, unmonetized, CC-BY 4.0, open to community contribution through GitHub. Entity formation in progress.
+**Kindness Flywheel (kindnessflywheel.org)**, an open source publication on human-centered leadership in the age of AI.
+- Founder and Editor, March 2026 – Present
 
 ---
 
