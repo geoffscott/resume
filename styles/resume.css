@@ -39,14 +39,23 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-/* Screen (GitHub Pages) gets a centered, page-like column. Print ignores this. */
+/* Screen (GitHub Pages) gets a centered, page-like column that scales from
+   desktop down to phone width with no fixed breakpoint. Print ignores this
+   whole block; the PDF uses @page above. */
 @media screen {
   body {
+    box-sizing: border-box;
     max-width: 8.5in;
     margin: 2rem auto;
-    padding: 0 1in;
+    /* Side gutter shrinks smoothly on narrow screens: 0.7in on desktop
+       (matching the PDF margins), down to ~5vw on a phone. */
+    padding: 0 min(0.7in, 5vw);
     background: #fff;
+    /* Long tokens (URLs, patent numbers) wrap instead of forcing a scroll. */
+    overflow-wrap: break-word;
   }
+  /* Name scales down a touch on small screens so it never crowds the edge. */
+  h1 { font-size: clamp(20pt, 5.5vw, 23pt); }
 }
 
 /* --- Header ------------------------------------------------------------ */
