@@ -20,6 +20,8 @@ The teams I build run on trust, a clear sense of purpose, and joy in the work. T
 
 **Built the K-12 platform behind the IPO.** As chief technologist, I created The Princeton Review's K-12 Services division and its Homeroom.com platform, central to the growth story the company took into its $59.4M 2001 IPO. I led the 14-month, 30-person, $1.5M Homeroom.com build and shipped it on time, on budget, and on scope.
 
+**Digital health, idea to patient pilot.** Eyethena, a prescription digital therapeutic for specialty chronic care. As fractional CTO, I built the team, set the FDA regulatory strategy, and co-invented its five patents; the glaucoma product is in patient pilot.
+
 **Built ARGI to exit, then ran the integration.** As CTO, my product strategy locked ARGI's top 10 clients into long-term renewals, the asset that carried the deal, and I rebuilt its data center end to end to take 35% out of annual opex. In 2010 ARGI was rolled up with three tele-services businesses to form iPacesetters; post-close I integrated four IT organizations and 100 staff into one function supporting 1,500 employees across a global MPLS network in 8 offices.
 
 **Acquired by Designs for Health.** As an advisor, prepared MBODY360 for the transaction, then ran the technology integration after close.
@@ -28,7 +30,7 @@ The teams I build run on trust, a clear sense of purpose, and joy in the work. T
 
 **First revenue in 11 months.** Narrativ had a real-time bidding marketplace on paper and no engineers. I hired the team, installed the operating model, and shipped it. $3M seed closed, cash flow positive.
 
-**Idea to profitability, then SOC 2 Type II.** One Eleven, wealth coaching for the paycheck-to-paycheck majority. As fractional CTO, I built the team and product that got them there.
+**Idea to profitability, then SOC 2 Type II.** OneEleven Financial Wellness, economic mobility for the paycheck-to-paycheck majority. As fractional CTO, I built the team and product that got them there.
 
 **Engineering culture at two Inc. 500 fast-growers.** Advised the engineering leaders at Fund That Flip (#42, 2019) and Kepler Group (#429, 2016), both Inc. 500 honorees, on building fast, pragmatic, high-trust engineering cultures as they grew into some of America's fastest-growing private companies.
 
@@ -54,7 +56,7 @@ A representative sample. Across them I've served as fractional CTO, interim CTO,
 **Eyethena**, Fractional CTO, February 2022 – Present
 Digital health: prescription digital therapeutic for specialty chronic care. Idea to seed: built the team, set the FDA regulatory strategy, and co-invented four AI patents and one hardware patent. Glaucoma product in patient pilot.
 
-**One Eleven**, Fractional CTO, April 2018 – Present
+**OneEleven Financial Wellness**, Fractional CTO, April 2018 – Present
 Economic mobility: wealth coaching for the paycheck-to-paycheck majority. Idea to seed to profitability; moved engineering to agentic workflows.
 
 **Narrativ**, Interim CTO and Advisor, August 2014 – August 2024
@@ -161,7 +163,7 @@ Led a distributed engineering organization across four sites in New York, Colora
 
 ## Technical Depth
 
-**Agentic engineering.** Drove adoption at One Eleven, moving delivery to agent-assisted workflows with humans on architecture and review.
+**Agentic engineering.** Drove adoption at OneEleven, moving delivery to agent-assisted workflows with humans on architecture and review.
 
 **Cloud and compliance.** Hands-on across AWS, GCP, and Azure in SOC 2 and HIPAA-compliant environments. On GCP: scale-to-zero services (Cloud Run, Functions gen2, Compute Engine, Secret Manager, IAP, IAM), identity-gated access, no public attack surface, idempotent infrastructure.
 
