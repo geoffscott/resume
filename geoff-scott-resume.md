@@ -8,7 +8,7 @@ Hudson Valley, NY · [linkedin.com/in/geoffscott](https://www.linkedin.com/in/ge
 
 ---
 
-I work with CEOs, boards, and sponsors on the technology decisions that make or break a transformation: whether the technology can deliver the outcome they're after, what has to change, what the team should look like, and what it will cost in time and money. I help set the direction and lead delivery as a full-time, interim, or fractional CTO, at PE-backed, VC-backed, private, and public companies across healthcare, fintech, wellness, edtech, martech, media, and adtech.
+I work with CEOs, boards, and sponsors on the technology decisions that make or break a transformation: whether the technology can deliver the outcome they're after, what has to change, what the team should look like, and what it will cost in time and money. I help set the direction and lead delivery as a full-time, interim, or fractional CTO, at PE-backed, VC-backed, private, and public companies across healthcare, fintech, edtech, martech, media, and adtech.
 
 I lead by making it possible for good people to do their best work, aligning strategy, process, people, and technology around business outcomes and staying close to the architecture, infrastructure, and code to ensure sound execution.
 
@@ -22,17 +22,17 @@ The teams I build run on trust, a clear sense of purpose, and joy in the work. T
 
 **Built ARGI to exit, then ran the integration.** As CTO, my product strategy locked ARGI's top 10 clients into long-term renewals, the asset that carried the deal, and I rebuilt its data center end to end to take 35% out of annual opex. In 2010 ARGI was rolled up with three tele-services businesses to form iPacesetters; post-close I integrated four IT organizations and 100 staff into one function supporting 1,500 employees across a global MPLS network in 8 offices.
 
-**Acquired by Designs for Health.** Prepared MBODY360 for the transaction, then ran the technology integration after close.
+**Acquired by Designs for Health.** As an advisor, prepared MBODY360 for the transaction, then ran the technology integration after close.
 
 **60% off content distribution costs.** Cut CSTV's content distribution costs 60% without slipping a release.
 
 **First revenue in 11 months.** Narrativ had a real-time bidding marketplace on paper and no engineers. I hired the team, installed the operating model, and shipped it. $3M seed closed, cash flow positive.
 
-**B2C channel in under 90 days.** One Eleven, from decision to live; the company reached operational profitability.
+**Idea to profitability, then SOC 2 Type II.** One Eleven, wealth coaching for the paycheck-to-paycheck majority. As fractional CTO, I built the team and product that got them there.
 
 **Engineering culture at two Inc. 500 fast-growers.** Advised the engineering leaders at Fund That Flip (#42, 2019) and Kepler Group (#429, 2016), both Inc. 500 honorees, on building fast, pragmatic, high-trust engineering cultures as they grew into some of America's fastest-growing private companies.
 
-**Buy-side diligence for PE sponsors.** Investment committees priced risk and made go/no-go calls on my findings. Recent targets in edtech, association SaaS, and digital learning at $3-25M revenue: architecture, technical debt, security, privacy, roadmap, and engineering org, delivered as red-flag lists and full audit reports. Earlier, ran diligence from the acquirer's chair at CBS and ARGI.
+**Buy-side diligence for PE sponsors.** Investment committees priced risk and made go/no-go calls on my findings. Recent targets in edtech, association SaaS, and digital learning at $3M-$250M revenue: architecture, technical debt, security, privacy, roadmap, and engineering org, delivered as red-flag lists and full audit reports. Earlier, ran diligence from the acquirer's chair at CBS and ARGI.
 
 **One of the web's first software stores, 1996.** Built one of the earliest hosted e-commerce and electronic software distribution platforms at UniDirect (#22 on the 1995 Inc. 500), launching the company's first online sales channel and delivering software over the internet before digital distribution went mainstream.
 
@@ -52,10 +52,10 @@ I work with CEOs, boards, and sponsors at companies in transition: a raise, an a
 A representative sample. Across them I've served as fractional CTO, interim CTO, or advisor, from founding through exit:
 
 **Eyethena**, Fractional CTO, February 2022 – Present
-Prescription digital therapeutic for specialty chronic care. Idea to seed: built the team, set the FDA regulatory strategy, and co-invented four AI patents and one hardware patent. Glaucoma product in patient pilot.
+Digital health: prescription digital therapeutic for specialty chronic care. Idea to seed: built the team, set the FDA regulatory strategy, and co-invented four AI patents and one hardware patent. Glaucoma product in patient pilot.
 
 **One Eleven**, Fractional CTO, April 2018 – Present
-Wealth coaching for the paycheck-to-paycheck majority. Idea to seed to profitability; moved engineering to agentic workflows.
+Economic mobility: wealth coaching for the paycheck-to-paycheck majority. Idea to seed to profitability; moved engineering to agentic workflows.
 
 **Narrativ**, Interim CTO and Advisor, August 2014 – August 2024
 Monetization technology for digital content producers. Interim CTO through seed and cash-flow-positive, building the product org and a real-time bidding marketplace; stayed on as advisor across a decade.
@@ -124,7 +124,7 @@ Direct marketing data products: discovery, visualization, analytics, campaign an
 ### DoubleClick (NASDAQ: DCLK), VP, Engineering
 *April 2004 – March 2005*
 
-Led a 170-person global engineering organization across New York, Colorado, England, and India on a platform serving roughly 5 billion impressions per day. $10M budget.
+Led a distributed engineering organization across four sites in New York, Colorado, England, and India, on a platform serving roughly 5 billion impressions per day. 170 engineers, $10M budget.
 
 - Led the ad optimization product offering: 50% improvement in ad performance and $1M+ in first-year revenue.
 - Rebuilt the application framework team entirely offshore and cut development time 20-50% through framework improvements.
@@ -135,7 +135,7 @@ Led a 170-person global engineering organization across New York, Colorado, Engl
 *July 1998 – April 2003*
 
 **VP, Technology, K-12 Services Division**
-- Created the division as chief technologist and ran strategy, marketing, finance, facilities, and staffing alongside technology.
+- Created the division, a K-12 education business, and served as chief technologist, involved across its launch from product and staffing to strategy, marketing, finance, and facilities.
 - Built and ran a 13-person team of project managers, designers, developers, QA, and sysadmins.
 - Led the 14-month, $1.5M, 30-person build of Homeroom.com. Launched on time, on budget, on target.
 - The division and its Homeroom.com platform featured prominently in the growth strategy of the company's $59.4M 2001 IPO.
@@ -161,13 +161,11 @@ Led a 170-person global engineering organization across New York, Colorado, Engl
 
 ## Technical Depth
 
-**Agentic engineering.** Drove adoption at One Eleven, moving delivery to agent-assisted workflows with humans on architecture and review. [Add the delivery metric here: throughput change, cycle time, or headcount avoided.]
+**Agentic engineering.** Drove adoption at One Eleven, moving delivery to agent-assisted workflows with humans on architecture and review.
 
-**Cloud architecture.** Scale-to-zero services on GCP: Cloud Run, Functions gen2, Compute Engine, Secret Manager, IAP, IAM. Identity-gated access, no public attack surface, idempotent infrastructure.
+**Cloud and compliance.** Hands-on across AWS, GCP, and Azure in SOC 2 and HIPAA-compliant environments. On GCP: scale-to-zero services (Cloud Run, Functions gen2, Compute Engine, Secret Manager, IAP, IAM), identity-gated access, no public attack surface, idempotent infrastructure.
 
 **Open source, MIT** (github.com/geoffscott): *phaedrus*, a publishing platform where human editors, AI agents, and developers all ship through one PR review gate; *openclaw-deploy-to-gcp*, agent gateway deployment hardened for SOC 2 with no public attack surface and secrets never at rest on disk; plus two agent skills.
-
-**At scale, earlier:** 90M uniques/month web platforms, 330+ TB/month data pipelines, 10K events/second real-time processing, programmatic RTB, NLP and machine learning.
 
 ---
 
