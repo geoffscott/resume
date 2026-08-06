@@ -92,7 +92,7 @@ h3 {
 h3 + p em { color: var(--muted); }
 h3 + p { margin: 0 0 0.35em; }
 
-p { margin: 0 0 0.5em; orphans: 3; widows: 3; }
+p { margin: 0 0 0.5em; orphans: 3; widows: 3; break-inside: avoid; }
 
 strong { font-weight: 700; }
 em { font-style: italic; }
@@ -114,7 +114,18 @@ hr {
 /* The rule right after the header/summary block is decorative; hide the
    doubled look by keeping them subtle. */
 
-/* --- Pagination safety ------------------------------------------------- */
-/* Keep an entry's heading with at least its first lines. */
-h2, h3 { page-break-after: avoid; }
-/* Avoid awkwardly splitting short bullet lists. */
+/* --- Pagination: keep job entries intact (PDF/print) ------------------- */
+/* WeasyPrint honors break-inside: avoid on a block when it fits on a page and
+   falls back to a normal break when the block is taller than a page. So a
+   short entry stays whole; a long one still breaks cleanly, and never mid-line,
+   mid-paragraph, or mid-bullet. */
+
+/* A section or entry heading stays with the content that follows it. */
+h2, h3 { break-after: avoid; page-break-after: avoid; }
+/* The italic date line under a heading stays attached to the entry body. */
+h3 + p { break-after: avoid; page-break-after: avoid; }
+/* A bullet list stays with the paragraph above it (its entry) and is never
+   split across a page on its own. */
+ul { break-before: avoid; break-inside: avoid; page-break-inside: avoid; }
+/* p and li already carry break-inside: avoid above, so paragraphs (including
+   the single-paragraph roster entries) and individual bullets never split. */

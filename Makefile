@@ -10,6 +10,7 @@
 
 MD    := geoff-scott-resume.md
 CSS   := styles/resume.css
+REF   := styles/reference.docx
 DIST  := dist
 TITLE := Geoff Scott — Resume
 
@@ -36,9 +37,12 @@ pdf: $(PDF)
 $(PDF): $(HTML)
 	weasyprint $(HTML) $(PDF)
 
+# The reference doc carries widow/orphan and keep-together paragraph defaults
+# (keepLines + widowControl) so Word does not split a paragraph or bullet across
+# a page; pandoc's default heading styles already keep headings with their body.
 docx: $(DOCX)
-$(DOCX): $(MD) | $(DIST)
-	pandoc $(MD) --from gfm+hard_line_breaks --output $(DOCX)
+$(DOCX): $(MD) $(REF) | $(DIST)
+	pandoc $(MD) --from gfm+hard_line_breaks --reference-doc $(REF) --output $(DOCX)
 
 clean:
 	rm -rf $(DIST)
