@@ -163,9 +163,9 @@ Led a distributed engineering organization across four sites in New York, Colora
 
 ## Technical Depth
 
-**Languages.** Python, TypeScript, SQL, HTML, CSS, and Bash.
-
 **Agentic engineering.** Drove adoption at OneEleven, moving delivery to agent-assisted workflows with humans on architecture and review.
+
+**Languages.** Python, TypeScript, SQL, HTML, CSS, and Bash.
 
 **Cloud and compliance.** Hands-on across AWS, GCP, and Azure in SOC 2 and HIPAA-compliant environments. On GCP: scale-to-zero services (Cloud Run, Functions gen2, Compute Engine, Secret Manager, IAP, IAM), identity-gated access, no public attack surface, idempotent infrastructure.
 
