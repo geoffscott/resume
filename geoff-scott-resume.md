@@ -18,7 +18,7 @@ The teams I build run on trust, a clear sense of purpose, and joy in the work. T
 
 ## Selected Outcomes
 
-**Built the K-12 platform behind the IPO.** As chief technologist, I created The Princeton Review's K-12 Services division and its Homeroom.com platform, central to the growth story the company took into its $59.4M 2001 IPO. I led the 14-month, 30-person, $1.5M Homeroom.com build and shipped it on time, on budget, and on scope.
+**Built the K-12 platform behind the IPO.** As chief technologist for The Princeton Review's new K-12 Services division, I led the 14-month, 30-person, $1.5M build of its Homeroom.com platform and shipped it on time, on budget, and on scope. The division and the platform were central to the growth story the company took into its $59.4M 2001 IPO.
 
 **Digital health, idea to patient pilot.** Eyethena, a prescription digital therapeutic for specialty chronic care. As fractional CTO, I built the team, set the FDA regulatory strategy, and co-invented its five patents; the glaucoma product is in patient pilot.
 
