@@ -137,7 +137,7 @@ Led a distributed engineering organization across four sites in New York, Colora
 *July 1998 – April 2003*
 
 **VP, Technology, K-12 Services Division**
-- Created the division, a K-12 education business, and served as chief technologist, involved across its launch from product and staffing to strategy, marketing, finance, and facilities.
+- Served as chief technologist for this new K-12 education business, working across its launch from product and staffing to strategy, marketing, finance, and facilities.
 - Built and ran a 13-person team of project managers, designers, developers, QA, and sysadmins.
 - Led the 14-month, $1.5M, 30-person build of Homeroom.com. Launched on time, on budget, on target.
 - The division and its Homeroom.com platform featured prominently in the growth strategy of the company's $59.4M 2001 IPO.
