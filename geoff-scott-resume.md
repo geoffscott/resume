@@ -8,35 +8,29 @@ Hudson Valley, NY · [linkedin.com/in/geoffscott](https://www.linkedin.com/in/ge
 
 ---
 
-I work with CEOs, boards, and sponsors on the technology decisions that make or break a transformation: whether the technology can deliver the outcome they're after, what has to change, what the team should look like, and what it will cost in time and money. I help set the direction and lead delivery as a full-time, interim, or fractional CTO, at PE-backed, VC-backed, private, and public companies across healthcare, fintech, edtech, martech, media, and adtech.
+Companies call me when their business changes and the technology has to change with it: a new product, a capital raise, an acquisition, a turnaround, a pivot. I serve as fractional or interim CTO, and I run technical due diligence for private equity sponsors.
 
-I lead by making it possible for good people to do their best work, aligning strategy, process, people, and technology around business outcomes and staying close to the architecture, infrastructure, and code to ensure sound execution.
+Over thirty-five years I've started 2 companies, taken part in 4 exits, led or advised 3 Inc. 500 and 2 Fortune 500 teams, and co-invented 5 patents, holding senior executive roles at PE-backed, venture-backed, and public companies.
 
-The teams I build run on trust, a clear sense of purpose, and joy in the work. They ship products customers love and reward with their loyalty.
+My M&A work has included buy-side technical diligence, sell-side readiness, and post-merger integration for PE and strategic sponsors on targets from $3M to $250M in revenue.
 
 ---
 
 ## Selected Outcomes
 
-**Built the K-12 platform behind the IPO.** As chief technologist for The Princeton Review's new K-12 Services division, I led the 14-month, 30-person, $1.5M build of its Homeroom.com platform and shipped it on time, on budget, and on scope. The division and the platform were central to the growth story the company took into its $59.4M 2001 IPO.
+I co-founded and bootstrapped Hackerati to 35 consultants in 3 years at 100% YoY revenue growth, hiring many entry-level engineers who went on to long careers at Apple, Google, Spotify, Meta, and the NSA. At DoubleClick, I led a 170-person engineering organization across New York, Colorado, the U.K., and India. At iPacesetters, I integrated 4 IT organizations totaling 100 people across New Jersey, Wisconsin, and India.
 
-**Digital health, idea to patient pilot.** Eyethena, a prescription digital therapeutic for specialty chronic care. As fractional CTO, I built the team, set the FDA regulatory strategy, and co-invented its five patents; the glaucoma product is in patient pilot.
+I've worked with some of the fastest-growing companies in the world, building one of the web's first e-commerce and electronic software distribution platforms for UniDirect (#22 on the 1995 Inc. 500). I helped accelerate product and engineering at Fund That Flip (#42 in 2019) and Kepler Group (#429 in 2016).
 
-**Built ARGI to exit, then ran the integration.** As CTO, my product strategy locked ARGI's top 10 clients into long-term renewals, the asset that carried the deal, and I rebuilt its data center end to end to take 35% out of annual opex. In 2010 ARGI was rolled up with three tele-services businesses to form iPacesetters; post-close I integrated four IT organizations and 100 staff into one function supporting 1,500 employees across a global MPLS network in 8 offices.
+**Healthcare:** Developed Eyethena's patent portfolio, set FDA regulatory strategy, built the team, and took the product from concept to patient pilot and seed funding. Prepared MBODY360 for exit in 2019 and led its post-close integration into Designs for Health.
 
-**Acquired by Designs for Health.** As an advisor, prepared MBODY360 for the transaction, then ran the technology integration after close.
+**Economic Mobility:** As fractional CTO of OneEleven Financial Wellness, wealth coaching for people living paycheck-to-paycheck, took it from idea stage through seed funding, SOC 2, agentic engineering, and operational profitability.
 
-**60% off content distribution costs.** Cut CSTV's content distribution costs 60% without slipping a release.
+**Education:** Launched the K-12 Services business for The Princeton Review, a key component to the growth strategy behind its $59.4M 2001 IPO.
 
-**First revenue in 11 months.** Narrativ had a real-time bidding marketplace on paper and no engineers. I hired the team, installed the operating model, and shipped it. $3M seed closed, cash flow positive.
+As CTO of ARGI, I set the product strategy that anchored the PE-backed iPacesetters rollup in 2010. I co-founded The Internet Connection, a regional ISP, in 1994 and sold it in 1996.
 
-**Idea to profitability, then SOC 2 Type II.** OneEleven Financial Wellness, economic mobility for the paycheck-to-paycheck majority. As fractional CTO, I built the team and product that got them there.
-
-**Engineering culture at two Inc. 500 fast-growers.** Advised the engineering leaders at Fund That Flip (#42, 2019) and Kepler Group (#429, 2016), both Inc. 500 honorees, on building fast, pragmatic, high-trust engineering cultures as they grew into some of America's fastest-growing private companies.
-
-**Buy-side diligence for PE sponsors.** Investment committees priced risk and made go/no-go calls on my findings. Recent targets in edtech, association SaaS, and digital learning at $3M-$250M revenue: architecture, technical debt, security, privacy, roadmap, and engineering org, delivered as red-flag lists and full audit reports. Earlier, ran diligence from the acquirer's chair at CBS and ARGI.
-
-**One of the web's first software stores, 1996.** Built one of the earliest hosted e-commerce and electronic software distribution platforms at UniDirect (#22 on the 1995 Inc. 500), launching the company's first online sales channel and delivering software over the internet before digital distribution went mainstream.
+I serve as treasurer of SIM NY Metro, a 501c6 association for IT executives, and secretary of Saranam Center for Healing and Transformation, a 501c3 spiritual retreat center. I also founded Table, a 1,000-member startup community, and created KindnessFlywheel.org, a publication about human-centered leadership in the AI age.
 
 ---
 
@@ -69,7 +63,7 @@ Sales intelligence platform connecting enterprise sales teams to former Fortune 
 
 ---
 
-### Hackerati, Founder & CEO
+### Hackerati, Co-Founder & CEO
 *July 2012 – April 2018*
 
 Built a technology firm that sold into business inflection points: launch, scale, funding rounds, pivots, new market entry, exits. Bootstrapped to 35 people in three years at 100% year-over-year revenue growth.
