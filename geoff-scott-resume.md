@@ -41,44 +41,58 @@ I serve as treasurer of SIM NY Metro, a 501c6 association for IT executives, and
 
 I work with CEOs, boards, and sponsors at companies in transition: a raise, an acquisition, a new product or market, a turnaround, a pivot.
 
-**For investors.** Investment committees price technology risk on the strength of my findings. I run buy-side technical diligence, sell-side readiness, and post-merger integration for private equity and strategic sponsors on targets in edtech, association SaaS, and digital learning.
+**For investors.** I run buy-side technical diligence, sell-side readiness, and post-merger integration for private equity and strategic sponsors. Targets have ranged from computer vision and robotics to manufacturing, media, edtech, and SaaS.
 
 **For operators.** I serve as interim or fractional CTO, advising CEOs and founders through raises, pivots, and organizational change, and representing the technology in their investor and sales meetings.
 
-A representative sample. Across them I've served as fractional CTO, interim CTO, or advisor, from founding through exit:
+Representative engagements:
 
-**Eyethena**, Fractional CTO, February 2022 – Present
-Digital health: prescription digital therapeutic for specialty chronic care. Idea to seed: built the team, set the FDA regulatory strategy, and co-invented four AI patents and one hardware patent. Glaucoma product in patient pilot.
+**Eyethena**, Fractional CTO and Advisor, February 2022 – Present
+Prescription digital therapeutic for specialty chronic care. Idea to seed: built the team, set the FDA regulatory strategy, and co-invented four AI patents and one hardware patent. Glaucoma product in patient pilot.
 
-**OneEleven Financial Wellness**, Fractional CTO, April 2018 – Present
-Economic mobility: wealth coaching for the paycheck-to-paycheck majority. Idea to seed to profitability; moved engineering to agentic workflows.
+**OneEleven Financial Wellness**, Fractional CTO and Advisor, April 2018 – Present
+Wealth coaching for the paycheck-to-paycheck majority. Idea to seed to profitability; led SOC 2 compliance; moved engineering to agentic workflows.
 
-**Narrativ**, Interim CTO and Advisor, August 2014 – August 2024
-Monetization technology for digital content producers. Interim CTO through seed and cash-flow-positive, building the product org and a real-time bidding marketplace; stayed on as advisor across a decade.
+**MBODY360**, Advisor, April 2018 – August 2020
+Personalized medicine platform, pre-seed to exit. Prepared the company for its acquisition by Designs for Health and ran the technology integration after close.
 
 **Emissary.io**, Interim CTO, October 2018 – May 2019
-Sales intelligence platform connecting enterprise sales teams to former Fortune 1000 executives. Between its Series A and Series B, I stepped in mid-transition to steady the engineering team and keep product shipping, and helped vet and hire the permanent CTO.
+Sales intelligence platform connecting enterprise sales teams to former Fortune 1000 executives. Steadied the engineering team in transition between Series A and Series B, kept product shipping, and helped hire the permanent CTO.
 
-**Fund That Flip**, Advisor, 2018 – 2021. Real-estate lending fintech, #42 on the 2019 Inc. 500. Advised engineering leadership as it scaled.
+**Fund That Flip**, Advisor, 2018 – 2021. Real-estate lending fintech, #42 on the 2019 Inc. 500. Advised engineering leadership as it scaled from Series A to Series B.
+
+---
+
+### Provenance Health, Co-Founder & CTO
+*May 2021 – September 2023*
+
+Consumer transparency for medical cannabis, where competing products look identical on the shelf.
+
+- Built an MVP that scored products on variance to label claims and batch-to-batch consistency in third-party lab results.
+- Landed a paying B2B customer and tested UX and unit economics on both sides of the market.
+- Wound the company down: brands and consumers loved the product but could not justify paying for it under the market conditions at the time.
 
 ---
 
 ### Hackerati, Co-Founder & CEO
 *July 2012 – April 2018*
 
-Built a technology firm that sold into business inflection points: launch, scale, funding rounds, pivots, new market entry, exits. Bootstrapped to 35 people in three years at 100% year-over-year revenue growth.
+Built a technology firm that sold into business inflection points: launch, scale, funding rounds, pivots, new market entry, exits. Delivered technology advisory, lean user experience, and lean product development. Bootstrapped to 35 people in three years at 100% year-over-year revenue growth.
 
-- Delivered web-scale DevOps, web platforms at 90M uniques/month, mobile apps with millions of downloads and Apple Editor's Choice awards, wearables, APIs, programmatic RTB, machine learning, NLP, 330+ TB/month data platforms, and 10K events/second real-time systems.
-- Clients: Viacom, Huffington Post, Nestlé, Lockheed, Meetup, Amplify Education, Noodle, Learning Care Group, NPD Group, Intent Media, Kepler Group, Vocativ, PayPerks, Local Projects, Narrativ, Bluestream Health.
+- Built an entrepreneurial culture that valued social contracts over rules, lean and agile principles over waterfall, and experimentation over training.
+- Delivered web-scale DevOps, web platforms at 90M uniques/month, mobile apps with millions of downloads and Apple Editor's Choice awards, wearables, APIs, programmatic RTB, machine learning, natural language processing including sentiment analysis, 330+ TB/month data platforms, and 10K events/second real-time systems.
+- Hired entry-level engineers and developed them into consultants who delivered value to demanding clients. Many went on to long careers at Apple, Google, Spotify, Meta, and the NSA.
+- Served as interim CTO for Narrativ, building the product org and shipping a real-time bidding marketplace that delivered first revenue in under 11 months. $3M seed closed, cash flow positive.
+- Clients: Viacom, Huffington Post, Nestlé, Lockheed, Meetup, Amplify Education, Noodle, Learning Care Group, NPD Group, Intent Media, Kepler Group, Vocativ, PayPerks, Local Projects, Bluestream Health.
 
 ---
 
 ### iPacesetters, Chief Technology Officer
 *November 2010 – January 2012*
 
-All technology for a 1,500+ employee, PE-owned sales and lead generation company formed by merging ARGI with three tele-services businesses.
+All technology for a 1,500+ employee, PE-owned sales and lead generation company formed by merging ARGI with three tele-services businesses. Owned the vertical functions, telemarketing, audience management, database marketing, and lead generation, alongside product management, engineering, and IT.
 
-- Integrated four separate IT organizations and 100 staff into one function.
+- Integrated four separate IT organizations and 100 staff into one function across New Jersey, Wisconsin, and India.
 - Deployed a global MPLS network connecting 1,000+ employees across 8 offices.
 - Delivered integrated contact center services and SaaS products for marketers to profile, analyze, and grow audiences across tele-services, e-commerce, advertising, and lead generation.
 
@@ -87,71 +101,77 @@ All technology for a 1,500+ employee, PE-owned sales and lead generation company
 ### ARGI, Chief Technology Officer
 *May 2007 – November 2010*
 
-All technology, including M&A, product management, engineering, professional services, and IT for a 50+ employee, PE-owned SaaS provider.
+All technology, including M&A, product management, engineering, professional services, and IT for a 50+ employee, PE-owned SaaS provider serving content producers and marketers.
 
 - Built the product strategy that secured long-term renewals from the top 10 clients by revenue, leading directly to the November 2010 rollup that formed iPacesetters.
 - Hit every product milestone for three-plus years, on time and under budget.
-- Rebuilt the data center and hosting infrastructure and cut annual operating expense by more than 35%.
+- Developed product positioning and collateral, and helped close sales.
+- Rebuilt the data center and hosting infrastructure end to end, including power, HVAC, network, storage, and servers, and cut annual operating expense by more than 35%.
 - Invented patent-pending technology that simplified web application integration.
 
 ---
 
 ### CSTV Networks, a CBS Company (NYSE: CBS), VP, Digital Technology
-*May 2006 – April 2007*
+*May 2006 – May 2007*
 
-All division technology and primary liaison to the CBS technology organization following CBS's acquisition of CSTV.
+All division technology and primary liaison to the CBS technology organization after CBS acquired CSTV. Advertising, e-commerce, and subscription products on CSTV.com and 200+ official university athletic sites.
 
-- Shipped major releases of hosted content management, streaming, mobile, email, and community products across CSTV.com and 200+ official university athletic sites.
+- Shipped major releases of hosted content management, streaming, mobile, email, and community products.
+- Delivered a unified user registration system.
 - Cut content distribution costs 60%.
-- Ran technical diligence on acquisition targets.
+- Ran technical diligence on four potential acquisitions.
 
 ---
 
 ### Donnelley Marketing (NASDAQ: IUSA), VP, Product Development
-*April 2005 – February 2006*
+*April 2005 – March 2006*
 
-Direct marketing data products: discovery, visualization, analytics, campaign and list management, data mining, hygiene, enhancement, and privacy.
+Direct marketing data products for Fortune 2000 clients: discovery, visualization, analytics, campaign and list management, data mining, hygiene, enhancement, and privacy.
 
-- Took a web services predictive modeling product from concept to launch in 30 days.
-- Designed the hosted architecture for managing and targeting terabytes of client customer data.
+- Took a web services predictive modeling product from concept to code-complete in 30 days.
+- Designed the next-generation, hosted product architecture for managing, analyzing, and targeting terabytes of client customer data.
+- Built the product support, quality assurance, and offshore development capabilities.
 
 ---
 
 ### DoubleClick (NASDAQ: DCLK), VP, Engineering
 *April 2004 – March 2005*
 
-Led a distributed engineering organization across four sites in New York, Colorado, England, and India, on a platform serving roughly 5 billion impressions per day. 170 engineers, $10M budget.
+Led UI design, application framework, ad optimization, and offshore development for the Ad Management division across New York, Colorado, England, and India, on a platform serving roughly 5 billion impressions per day. 170 engineers, $10M budget.
 
 - Led the ad optimization product offering: 50% improvement in ad performance and $1M+ in first-year revenue.
-- Rebuilt the application framework team entirely offshore and cut development time 20-50% through framework improvements.
+- Rebuilt the application framework team offshore and enhanced the J2EE/Struts framework to cut design and development time 20-50%.
+- Built the case for the usability team, which contributed to sales and renewal wins totaling over $1.2M.
 
 ---
 
 ### The Princeton Review (NASDAQ: REVU)
 *July 1998 – April 2003*
 
-**VP, Technology, K-12 Services Division**
-- Served as chief technologist for this new K-12 education business, working across its launch from product and staffing to strategy, marketing, finance, and facilities.
-- Built and ran a 13-person team of project managers, designers, developers, QA, and sysadmins.
-- Led the 14-month, $1.5M, 30-person build of Homeroom.com. Launched on time, on budget, on target.
-- The division and its Homeroom.com platform featured prominently in the growth strategy of the company's $59.4M 2001 IPO.
-
-**VP, IT Strategic Systems**
-- Created the department, built the business case, ran the budget, hired the team, and stayed hands-on technically.
+**VP, IT Strategic Systems**, February 2001 – April 2003
+Created the department to build a single view of customers across three divisions. Built the business case, hired the team, and stayed hands-on.
 - Improved user satisfaction with enterprise systems 220%.
 - Built a CMS that cut content costs 50% and enabled content strategies estimated at $7-9M in incremental sales.
 - Stood up an email marketing business that generated over $1M in 2002.
 - Upgraded financial systems, cutting payroll processing costs 75% and the risk of delayed SEC filings 93%.
 
+**VP, Technology, K-12 Services Division**, July 1998 – February 2001
+Chief technologist for the new division, across product, staffing, strategy, marketing, and finance. Built and ran a 13-person team of project managers, designers, developers, QA, and sysadmins.
+- Launched the K-12 Services business, bringing The Princeton Review into the K-12 education market.
+- Led the 14-month, 30-person, $1.5M build of Homeroom.com. Launched on time, on budget, on target.
+- Grew to 10% of The Princeton Review's total revenue ($9.3M in 2002) and featured prominently in the growth strategy behind the company's $59.4M 2001 IPO.
+
 ---
 
 ## Earlier
 
-**Innovative Technology Solutions**, Principal Consultant, 1997 – 2007. Advised on the product roadmap for Macromedia UltraDev (then Drumbeat). Built PushTV, an interactive point-of-purchase advertising system. Built immersive exhibits for the U.S. National Park Service and the National Prisoner of War Museum. Automated laserdisc certification testing for THX (LucasFilm).
+**Independent Consultant**, 2003 – 2004 and 1997 – 1998. Advised a healthcare informatics startup on business planning, product strategy, and financing, and an educational publisher on vendor selection. Advised on the product roadmap for Macromedia UltraDev (then Drumbeat). Built PushTV, a satellite video system delivering MPEG streams to point-of-purchase and museum displays, including U.S. National Park Service exhibits at the National Prisoner of War Museum. Automated laserdisc certification for THX at LucasFilm.
 
-**UniDirect Corporation**, Manager, Online Services, 1996 – 1997. Ran online services and e-business for this Inc. 500 software direct marketer.
+**UniDirect Corporation**, Manager, Online Services, 1996 – 1997. Directed e-business for this software direct marketer, #22 on the 1995 Inc. 500. Built one of the web's first hosted e-commerce and electronic software distribution platforms, and pioneered the application service provider model.
 
-**Double Click Imaging / The Internet Connection**, Co-Founder & Director, 1990 – 1996. Converted a consulting company into an ISP offering connectivity, web hosting, co-location, and consulting. Built some of the earliest web-based business applications, starting in 1994. Negotiated the sale of the business. Clients included Apple Computer, Attachmate, IDG Books, Plantronics, Starfish Software, and The Santa Cruz Operation.
+**The Internet Connection**, Co-Founder & Director, 1994 – 1996. Converted Double Click Imaging, a consulting company, into an ISP offering connectivity, web hosting, co-location, and consulting. Built some of the first e-businesses and web-based business applications, starting in 1994. Negotiated the sale. Clients included Apple Computer, Attachmate, IDG Books, Plantronics, Starfish Software, and The Santa Cruz Operation.
+
+**Double Click Imaging**, Software Engineer, 1990 – 1994. Computer graphics and multimedia applications for government agencies and software publishers. Wrote X servers for The Santa Cruz Operation in C and x86 assembly that shipped in several releases of SCO Open Server Unix.
 
 ---
 
@@ -173,7 +193,10 @@ Co-inventor of four issued U.S. patents covering digital therapeutic monitoring 
 
 ---
 
-## Board Service
+## Board and Community
+
+**Table**, a gathering where founders, operators, advisors, and investors meet in person to talk about fundraising, hiring, pivots, AI, and co-founder dynamics. No keynote speakers, no pitch decks. 1,000 members.
+- Founder and Co-Organizer, 2018 – Present
 
 **SIM New York Metro (nysim.org)**, the New York chapter of the Society for Information Management, a professional association of senior IT executives (501c6).
 - Treasurer, 2025 – Present
