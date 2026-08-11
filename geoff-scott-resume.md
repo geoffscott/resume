@@ -10,7 +10,7 @@ Hudson Valley, NY · [linkedin.com/in/geoffscott](https://www.linkedin.com/in/ge
 
 Companies call me when their business changes and the technology has to change with it: a new product, a capital raise, an acquisition, a turnaround, a pivot. I serve as fractional or interim CTO, and I run technical due diligence for private equity sponsors.
 
-Over thirty-five years I've started 2 companies, taken part in 4 exits, led or advised 3 Inc. 500 and 2 Fortune 500 teams, and co-invented 5 patents, holding senior executive roles at PE-backed, venture-backed, and public companies.
+Over thirty-five years I've started 3 companies, taken part in 4 exits, led or advised 3 Inc. 500 and 2 Fortune 500 teams, and co-invented 5 patents, holding senior executive roles at PE-backed, venture-backed, and public companies.
 
 My M&A work has included buy-side technical diligence, sell-side readiness, and post-merger integration for PE and strategic sponsors on targets from $3M to $250M in revenue.
 
