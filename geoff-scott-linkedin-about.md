@@ -1,6 +1,6 @@
 Companies call me when their business changes and the technology has to change with it: a new product, a capital raise, an acquisition, a turnaround, a pivot. I serve as fractional or interim CTO, and I run technical due diligence for private equity sponsors.
 
-Over thirty-five years I've started 2 companies, taken part in 4 exits, led or advised 3 Inc. 500 and 2 Fortune 500 teams, and co-invented 5 patents, holding senior executive roles at PE-backed, venture-backed, and public companies.
+Over thirty-five years I've started 3 companies, taken part in 4 exits, led or advised 3 Inc. 500 and 2 Fortune 500 teams, and co-invented 5 patents, holding senior executive roles at PE-backed, venture-backed, and public companies.
 
 I co-founded and bootstrapped Hackerati to 35 consultants in 3 years at 100% YoY revenue growth, hiring many entry-level engineers who went on to long careers at Apple, Google, Spotify, Meta, and the NSA. At DoubleClick, I led a 170-person engineering organization across New York, Colorado, the U.K., and India. At iPacesetters, I integrated 4 IT organizations totaling 100 people across New Jersey, Wisconsin, and India.
 
