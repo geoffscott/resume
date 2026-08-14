@@ -8,7 +8,7 @@ New York City Metropolitan Area
 
 I work with CEOs, boards, and sponsors at companies in transition: a raise, an acquisition, a new product or market, a turnaround, a pivot.
 
-For investors: I run buy-side technical diligence, sell-side readiness, and post-merger integration for private equity and strategic sponsors. Targets have ranged from computer vision and robotics to manufacturing, media, edtech, and SaaS.
+For investors: I provide buy-side technical diligence, sell-side readiness, and post-merger integration for private equity and strategic sponsors. Targets have ranged from computer vision and robotics to manufacturing, media, edtech, and SaaS.
 
 For operators: I serve as interim or fractional CTO, advising CEOs and founders through raises, pivots, and organizational change, and representing the technology in their investor and sales meetings.
 
@@ -124,7 +124,7 @@ Jul 2012 - Apr 2018
 
 New York, NY
 
-Built a technology firm that sold into business inflection points: launch, scale, funding rounds, pivots, new market entry, exits. Delivered technology advisory, lean user experience, and lean product development. Bootstrapped to 35 people in three years at 100% year-over-year revenue growth.
+Built a technology firm that sold into business inflection points: launch, scale, funding rounds, pivots, new market entry, exits. Delivered technology advisory, lean user experience, and lean product development. Bootstrapped to 35 consultants in three years at 100% year-over-year revenue growth.
 • Built an entrepreneurial culture that valued social contracts over rules, lean and agile principles over waterfall, and experimentation over training.
 • Delivered web-scale DevOps, web platforms at 90M uniques/month, mobile apps with millions of downloads and Apple Editor's Choice awards, wearables, APIs, programmatic RTB, machine learning, natural language processing including sentiment analysis, 330+ TB/month data platforms, and 10K events/second real-time systems.
 • Hired entry-level engineers and developed them into consultants who delivered value to demanding clients. Many went on to long careers at Apple, Google, Spotify, Meta, and the NSA.
@@ -142,8 +142,8 @@ Nov 2010 - Jan 2012
 
 All technology for a 1,500+ employee, PE-owned sales and lead generation company formed by merging ARGI with three tele-services businesses. Owned the vertical functions, telemarketing, audience management, database marketing, and lead generation, alongside product management, engineering, and IT.
 • Integrated four separate IT organizations and 100 staff into one function across New Jersey, Wisconsin, and India.
-• Deployed a global MPLS network connecting 1,000+ employees across 8 offices.
-• Delivered integrated contact center services and SaaS products that let marketers profile, analyze, and grow audiences across media, and drive revenue from tele-services, e-commerce, advertising, and lead generation.
+• Deployed a global MPLS network connecting 8 offices.
+• Delivered integrated contact center services and SaaS products for marketers to profile, analyze, and grow audiences across tele-services, e-commerce, advertising, and lead generation.
 
  Executive Management
 
@@ -159,7 +159,6 @@ All technology, including M&A, product management, engineering, professional ser
 • Hit every product milestone for three-plus years, on time and under budget.
 • Developed product positioning and collateral, and helped close sales.
 • Rebuilt the data center and hosting infrastructure end to end, including power, HVAC, network, storage, and servers, and cut annual operating expense by more than 35%.
-• Invented patent-pending technology that simplified web application integration.
 
  Executive Management
 
@@ -174,7 +173,7 @@ All division technology and primary liaison to the CBS technology organization a
 • Shipped major releases of hosted content management, streaming, mobile, email, and community products.
 • Delivered a unified user registration system.
 • Cut content distribution costs 60%.
-• Ran technical diligence on four potential acquisitions.
+• Performed technical diligence on four potential acquisitions.
 
  Executive Management
 
@@ -222,7 +221,7 @@ Feb 2001 - Apr 2003
 Created the IT Strategic Systems department to build a single view of customers across three divisions. Built the business case, hired the team, and stayed hands-on.
 • Improved user satisfaction with enterprise systems 220%.
 • Built a content management system that cut content costs 50% and enabled content strategies estimated at $7-9M in incremental sales.
-• Stood up an email marketing business that generated over $1M in 2002.
+• Created an email marketing business that generated over $1M in 2002.
 • Upgraded financial systems, cutting payroll processing costs 75% and the risk of delayed SEC filings 93%.
 
 Skills: IT Strategy, CRM, +4 skills
@@ -231,7 +230,7 @@ Vice President, Technology, K-12 Services Division
 
 Jul 1998 - Feb 2001
 
-Chief technologist for the new K-12 Services Division, across product, staffing, strategy, marketing, and finance. Built and ran a 13-person team of project managers, designers, developers, QA, and sysadmins.
+Chief technologist for the new K-12 Services Division. Built and ran a 13-person team of project managers, designers, developers, QA, and system administrators.
 • Launched the K-12 Services business, bringing The Princeton Review into the K-12 education market.
 • Led the 14-month, 30-person, $1.5M build of the division's flagship product, Homeroom.com. Launched on time, on budget, on target.
 • Grew to 10% of The Princeton Review's total revenue ($9.3M in 2002) and featured prominently in the growth strategy behind the company's $59.4M 2001 IPO.

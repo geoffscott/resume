@@ -8,25 +8,25 @@ Hudson Valley, NY · [linkedin.com/in/geoffscott](https://www.linkedin.com/in/ge
 
 ---
 
-Companies call me when their business changes and the technology has to change with it: a new product, a capital raise, an acquisition, a turnaround, a pivot. I serve as fractional or interim CTO, and I run technical due diligence for private equity sponsors.
+Companies call me when their business changes and the technology has to change with it: a new product, a capital raise, an acquisition, a turnaround, a pivot. I serve as fractional or interim CTO, and I conduct technical due diligence for private equity and strategic sponsors.
 
 Over thirty-five years I've started 3 companies, taken part in 4 exits, led or advised 3 Inc. 500 and 2 Fortune 500 teams, and co-invented 5 patents, holding senior executive roles at PE-backed, venture-backed, and public companies.
 
-My M&A work has included buy-side technical diligence, sell-side readiness, and post-merger integration for PE and strategic sponsors on targets from $3M to $250M in revenue.
+My M&A work has included buy-side technical diligence, sell-side readiness, and post-merger integration on companies up to $300M in revenue.
 
 ---
 
 ## Selected Outcomes
 
-I co-founded and bootstrapped Hackerati to 35 consultants in 3 years at 100% YoY revenue growth, hiring many entry-level engineers who went on to long careers at Apple, Google, Spotify, Meta, and the NSA. At DoubleClick, I led a 170-person engineering organization across New York, Colorado, the U.K., and India. At iPacesetters, I integrated 4 IT organizations totaling 100 people across New Jersey, Wisconsin, and India.
-
 I've worked with some of the fastest-growing companies in the world, building one of the web's first e-commerce and electronic software distribution platforms for UniDirect (#22 on the 1995 Inc. 500). I helped accelerate product and engineering at Fund That Flip (#42 in 2019) and Kepler Group (#429 in 2016).
 
 **Healthcare:** Developed Eyethena's patent portfolio, set FDA regulatory strategy, built the team, and took the product from concept to patient pilot and seed funding. Prepared MBODY360 for exit in 2019 and led its post-close integration into Designs for Health.
 
-**Economic Mobility:** As fractional CTO of OneEleven Financial Wellness, wealth coaching for people living paycheck-to-paycheck, took it from idea stage through seed funding, SOC 2, agentic engineering, and operational profitability.
+**Economic Mobility:** Guided OneEleven Financial Wellness, wealth coaching for people living paycheck-to-paycheck, from idea stage through seed funding, SOC 2, agentic engineering, and operational profitability.
 
 **Education:** Launched the K-12 Services business for The Princeton Review, a key component to the growth strategy behind its $59.4M 2001 IPO.
+
+I co-founded and bootstrapped Hackerati to 35 consultants in 3 years at 100% YoY revenue growth, hiring many entry-level engineers who went on to long careers at Apple, Google, Spotify, Meta, and the NSA. At DoubleClick, I led a 170-person engineering organization across New York, Colorado, the U.K., and India. At iPacesetters, I integrated 4 IT organizations totaling 100 people across New Jersey, Wisconsin, and India.
 
 As CTO of ARGI, I set the product strategy that anchored the PE-backed iPacesetters rollup in 2010. I co-founded The Internet Connection, a regional ISP, in 1994 and sold it in 1996.
 
@@ -41,7 +41,7 @@ I serve as treasurer of SIM NY Metro, a 501c6 association for IT executives, and
 
 I work with CEOs, boards, and sponsors at companies in transition: a raise, an acquisition, a new product or market, a turnaround, a pivot.
 
-**For investors.** I run buy-side technical diligence, sell-side readiness, and post-merger integration for private equity and strategic sponsors. Targets have ranged from computer vision and robotics to manufacturing, media, edtech, and SaaS.
+**For investors.** I provide buy-side technical diligence, sell-side readiness, and post-merger integration for private equity and strategic sponsors. Targets have ranged from computer vision and robotics to manufacturing, media, edtech, and SaaS.
 
 **For operators.** I serve as interim or fractional CTO, advising CEOs and founders through raises, pivots, and organizational change, and representing the technology in their investor and sales meetings.
 
@@ -77,7 +77,7 @@ Consumer transparency for medical cannabis, where competing products look identi
 ### Hackerati, Co-Founder & CEO
 *July 2012 – April 2018*
 
-Built a technology firm that sold into business inflection points: launch, scale, funding rounds, pivots, new market entry, exits. Delivered technology advisory, lean user experience, and lean product development. Bootstrapped to 35 people in three years at 100% year-over-year revenue growth.
+Built a technology firm that sold into business inflection points: launch, scale, funding rounds, pivots, new market entry, exits. Delivered technology advisory, lean user experience, and lean product development. Bootstrapped to 35 consultants in three years at 100% year-over-year revenue growth.
 
 - Built an entrepreneurial culture that valued social contracts over rules, lean and agile principles over waterfall, and experimentation over training.
 - Delivered web-scale DevOps, web platforms at 90M uniques/month, mobile apps with millions of downloads and Apple Editor's Choice awards, wearables, APIs, programmatic RTB, machine learning, natural language processing including sentiment analysis, 330+ TB/month data platforms, and 10K events/second real-time systems.
@@ -93,7 +93,7 @@ Built a technology firm that sold into business inflection points: launch, scale
 All technology for a 1,500+ employee, PE-owned sales and lead generation company formed by merging ARGI with three tele-services businesses. Owned the vertical functions, telemarketing, audience management, database marketing, and lead generation, alongside product management, engineering, and IT.
 
 - Integrated four separate IT organizations and 100 staff into one function across New Jersey, Wisconsin, and India.
-- Deployed a global MPLS network connecting 1,000+ employees across 8 offices.
+- Deployed a global MPLS network connecting 8 offices.
 - Delivered integrated contact center services and SaaS products for marketers to profile, analyze, and grow audiences across tele-services, e-commerce, advertising, and lead generation.
 
 ---
@@ -107,7 +107,6 @@ All technology, including M&A, product management, engineering, professional ser
 - Hit every product milestone for three-plus years, on time and under budget.
 - Developed product positioning and collateral, and helped close sales.
 - Rebuilt the data center and hosting infrastructure end to end, including power, HVAC, network, storage, and servers, and cut annual operating expense by more than 35%.
-- Invented patent-pending technology that simplified web application integration.
 
 ---
 
@@ -119,7 +118,7 @@ All division technology and primary liaison to the CBS technology organization a
 - Shipped major releases of hosted content management, streaming, mobile, email, and community products.
 - Delivered a unified user registration system.
 - Cut content distribution costs 60%.
-- Ran technical diligence on four potential acquisitions.
+- Performed technical diligence on four potential acquisitions.
 
 ---
 
@@ -151,12 +150,12 @@ Led UI design, application framework, ad optimization, and offshore development 
 **VP, IT Strategic Systems**, February 2001 – April 2003
 Created the department to build a single view of customers across three divisions. Built the business case, hired the team, and stayed hands-on.
 - Improved user satisfaction with enterprise systems 220%.
-- Built a CMS that cut content costs 50% and enabled content strategies estimated at $7-9M in incremental sales.
-- Stood up an email marketing business that generated over $1M in 2002.
+- Built a content management system that cut content costs 50% and enabled content strategies estimated at $7-9M in incremental sales.
+- Created up an email marketing business that generated over $1M in 2002.
 - Upgraded financial systems, cutting payroll processing costs 75% and the risk of delayed SEC filings 93%.
 
 **VP, Technology, K-12 Services Division**, July 1998 – February 2001
-Chief technologist for the new division, across product, staffing, strategy, marketing, and finance. Built and ran a 13-person team of project managers, designers, developers, QA, and sysadmins.
+Chief technologist for the new division. Built and ran a 13-person team of project managers, designers, developers, QA, and system administrators.
 - Launched the K-12 Services business, bringing The Princeton Review into the K-12 education market.
 - Led the 14-month, 30-person, $1.5M build of Homeroom.com. Launched on time, on budget, on target.
 - Grew to 10% of The Princeton Review's total revenue ($9.3M in 2002) and featured prominently in the growth strategy behind the company's $59.4M 2001 IPO.
