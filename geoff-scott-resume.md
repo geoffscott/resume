@@ -1,6 +1,6 @@
 # Geoff Scott
 
-**CTO | Advisor | PE and Venture-Backed Transformations | M&A, Technical Due Diligence & Integration | 4 Exits**
+**CTO | Advisor | PE and Venture-Backed Transformations | M&A, Technical Due Diligence & Integration**
 
 Hudson Valley, NY · [linkedin.com/in/geoffscott](https://www.linkedin.com/in/geoffscott/) · [github.com/geoffscott](https://github.com/geoffscott)
 
@@ -70,7 +70,7 @@ Consumer transparency for medical cannabis, where competing products look identi
 
 - Built an MVP that scored products on variance to label claims and batch-to-batch consistency in third-party lab results.
 - Landed a paying B2B customer and tested UX and unit economics on both sides of the market.
-- Wound the company down: brands and consumers loved the product but could not justify paying for it under the market conditions at the time.
+- Wound the company down because the market conditions did not support unit economics.
 
 ---
 
@@ -90,7 +90,7 @@ Built a technology firm that sold into business inflection points: launch, scale
 ### iPacesetters, Chief Technology Officer
 *November 2010 – January 2012*
 
-All technology for a 1,500+ employee, PE-owned sales and lead generation company formed by merging ARGI with three tele-services businesses. Owned the vertical functions, telemarketing, audience management, database marketing, and lead generation, alongside product management, engineering, and IT.
+All technology for a 1,500+ employee, PE-owned sales and lead generation company formed by merging ARGI with three tele-services businesses. Owned product management, engineering, and IT supporting telemarketing, audience management, database marketing, and lead generation services.
 
 - Integrated four separate IT organizations and 100 staff into one function across New Jersey, Wisconsin, and India.
 - Deployed a global MPLS network connecting 8 offices.
@@ -151,7 +151,7 @@ Led UI design, application framework, ad optimization, and offshore development 
 Created the department to build a single view of customers across three divisions. Built the business case, hired the team, and stayed hands-on.
 - Improved user satisfaction with enterprise systems 220%.
 - Built a content management system that cut content costs 50% and enabled content strategies estimated at $7-9M in incremental sales.
-- Created up an email marketing business that generated over $1M in 2002.
+- Created an email marketing business that generated over $1M in 2002.
 - Upgraded financial systems, cutting payroll processing costs 75% and the risk of delayed SEC filings 93%.
 
 **VP, Technology, K-12 Services Division**, July 1998 – February 2001
@@ -176,13 +176,13 @@ Chief technologist for the new division. Built and ran a 13-person team of proje
 
 ## Technical Depth
 
-**Agentic engineering.** Drove adoption at OneEleven, moving delivery to agent-assisted workflows with humans on architecture and review.
+**Agentic engineering.** Claude Code
 
-**Languages.** Python, TypeScript, SQL, HTML, CSS, and Bash.
+**Languages.** Python, TypeScript, SQL, HTML, CSS, and Bash
 
-**Cloud and compliance.** Hands-on across AWS, GCP, and Azure in SOC 2 and HIPAA-compliant environments. On GCP: scale-to-zero services (Cloud Run, Functions gen2, Compute Engine, Secret Manager, IAP, IAM), identity-gated access, no public attack surface, idempotent infrastructure.
+**Cloud and compliance.** AWS, GCP, and Azure in SOC 2 and HIPAA-compliant environments 
 
-**Open source, MIT** (github.com/geoffscott): *phaedrus*, a publishing platform where human editors, AI agents, and developers all ship through one PR review gate; *openclaw-deploy-to-gcp*, agent gateway deployment hardened for SOC 2 with no public attack surface and secrets never at rest on disk; plus two agent skills.
+**Open source** (github.com/geoffscott): *phaedrus*, a publishing platform where human editors, AI agents, and developers all ship through one PR review gate; *openclaw-deploy-to-gcp*, agent gateway deployment hardened for SOC 2 with no public attack surface and secrets never at rest on disk; plus two agent skills
 
 ---
 
