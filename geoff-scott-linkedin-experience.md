@@ -113,7 +113,8 @@ May 2021 - Sep 2023
 Consumer transparency for medical cannabis, where competing products look identical on the shelf.
 • Built an MVP that scored products on variance to label claims and batch-to-batch consistency in third-party lab results.
 • Landed a paying B2B customer and tested UX and unit economics on both sides of the market.
-• Wound the company down: brands and consumers loved the product but could not justify paying for it under the market conditions at the time.
+• Wound the company down because the market conditions did not support unit economics.
+
 
 Hackerati logo
 Co-Founder & CEO
@@ -140,7 +141,8 @@ iPacesetters, LLC
 
 Nov 2010 - Jan 2012
 
-All technology for a 1,500+ employee, PE-owned sales and lead generation company formed by merging ARGI with three tele-services businesses. Owned the vertical functions, telemarketing, audience management, database marketing, and lead generation, alongside product management, engineering, and IT.
+All technology for a 1,500+ employee, PE-owned sales and lead generation company formed by merging ARGI with three tele-services businesses. Owned product management, engineering, and IT supporting telemarketing, audience management, database marketing, and lead generation services.
+
 • Integrated four separate IT organizations and 100 staff into one function across New Jersey, Wisconsin, and India.
 • Deployed a global MPLS network connecting 8 offices.
 • Delivered integrated contact center services and SaaS products for marketers to profile, analyze, and grow audiences across tele-services, e-commerce, advertising, and lead generation.
