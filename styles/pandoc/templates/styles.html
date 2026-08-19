@@ -1,0 +1,10 @@
+$-- Overrides pandoc's default styles.html partial, which is injected into the
+$-- <style> block of every standalone HTML build.
+$--
+$-- That default carries rules for columns, task lists, hanging indents,
+$-- smallcaps and code wrapping. This resume uses none of them, and one of them
+$-- (div.column{overflow-x: auto}) is a property WeasyPrint does not implement,
+$-- so it printed a warning on every PDF build.
+$--
+$-- Deliberately renders to nothing. All resume styling lives in
+$-- styles/resume.css.

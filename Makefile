@@ -11,6 +11,7 @@
 MD    := geoff-scott-resume.md
 CSS   := styles/resume.css
 REF   := styles/reference.docx
+PARTIAL := styles/pandoc/templates/styles.html
 DIST  := dist
 TITLE := Geoff Scott — Resume
 
@@ -25,9 +26,14 @@ $(DIST):
 	mkdir -p $(DIST)
 
 # One HTML is the source of truth for both the web view and the PDF.
+# --data-dir points at styles/pandoc, whose templates/styles.html is empty and
+# overrides the boilerplate pandoc otherwise injects into <style>. That
+# boilerplate is unused here and included overflow-x, which WeasyPrint does not
+# implement and warned about on every build.
 html: $(HTML)
-$(HTML): $(MD) $(CSS) | $(DIST)
+$(HTML): $(MD) $(CSS) $(PARTIAL) | $(DIST)
 	pandoc $(MD) --standalone --from gfm+hard_line_breaks \
+	  --data-dir=styles/pandoc \
 	  --metadata title="$(TITLE)" \
 	  --css resume.css \
 	  --output $(HTML)
